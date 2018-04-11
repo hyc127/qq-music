@@ -1,0 +1,118 @@
+{
+    "code": 0,
+    "data": {
+        "album": {
+            "count": 2,
+            "itemlist": [
+                {
+                    "docid": "2416938513267160341",
+                    "id": "3834888",
+                    "mid": "0026ttFc17IeE3",
+                    "name": "无问",
+                    "pic": "http://imgcache.qq.com/music/photo/mid_album_58/E/3/0026ttFc17IeE3.jpg",
+                    "singer": "毛不易"
+                },
+                {
+                    "docid": "11744044920283230060",
+                    "id": "2888652",
+                    "mid": "0000yTWL3FDulw",
+                    "name": "项羽虞姬",
+                    "pic": "http://imgcache.qq.com/music/photo/mid_album_58/l/w/0000yTWL3FDulw.jpg",
+                    "singer": "毛不易"
+                }
+            ],
+            "name": "专辑",
+            "order": 2,
+            "type": 3
+        },
+        "mv": {
+            "count": 2,
+            "itemlist": [
+                {
+                    "docid": "3941081760238325947",
+                    "id": "213198549",
+                    "mid": "003TRP3D18X72i",
+                    "name": "浴火成诗",
+                    "singer": "迪丽热巴/毛不易",
+                    "vid": "g0025v0x0wm"
+                },
+                {
+                    "docid": "414970614658825618",
+                    "id": "203451421",
+                    "mid": "003kLvu04bLGzi",
+                    "name": "消愁",
+                    "singer": "毛不易",
+                    "vid": "x00248tvbgv"
+                }
+            ],
+            "name": "MV",
+            "order": 3,
+            "type": 4
+        },
+        "singer": {
+            "count": 2,
+            "itemlist": [
+                {
+                    "docid": "9807995123695811196",
+                    "id": "1507534",
+                    "mid": "001BHDR33FZVZ0",
+                    "name": "毛不易",
+                    "pic": "http://imgcache.qq.com/music/photo/mid_singer_58/Z/0/001BHDR33FZVZ0.jpg",
+                    "singer": "毛不易"
+                },
+                {
+                    "docid": "7893876816194793891",
+                    "id": "1474029",
+                    "mid": "003X8sqG4I9bZU",
+                    "name": "MC冰颜",
+                    "pic": "http://imgcache.qq.com/music/photo/mid_singer_58/Z/U/003X8sqG4I9bZU.jpg",
+                    "singer": "MC冰颜"
+                }
+            ],
+            "name": "歌手",
+            "order": 1,
+            "type": 2
+        },
+        "song": {
+            "count": 4,
+            "itemlist": [
+                {
+                    "albummid": "004gIoP90Dwnag",
+                    "docid": "1245635153833437391",
+                    "id": "213468336",
+                    "mid": "002XHVnA1C8oyg",
+                    "name": "漫步云端",
+                    "singer": "张韶涵"
+                },
+                {
+                    "albummid": "002xoonH2Bk7FR",
+                    "docid": "8391254548545655644",
+                    "id": "203451421",
+                    "mid": "003kLvu04bLGzi",
+                    "name": "消愁",
+                    "singer": "毛不易"
+                },
+                {
+                    "albummid": "001yHQzz2rm3lk",
+                    "docid": "16029602843707799899",
+                    "id": "213224236",
+                    "mid": "000uhMwj387EBp",
+                    "name": "牧马城市",
+                    "singer": "毛不易"
+                },
+                {
+                    "albummid": "0040pLJH1baDC3",
+                    "docid": "1793413840273155119",
+                    "id": "202244232",
+                    "mid": "000Xd8TD3GS51V",
+                    "name": "十里春风不如你",
+                    "singer": "MC冰颜"
+                }
+            ],
+            "name": "单曲",
+            "order": 0,
+            "type": 1
+        }
+    },
+    "subcode": 0
+}
