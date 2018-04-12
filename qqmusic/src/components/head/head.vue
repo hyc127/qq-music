@@ -1,9 +1,9 @@
 <template>
-    <div>
+    <div class="content">
         <div class="navbar">
             <a class="navbar-brand col-12 col-md-3 m-0 p-0 mb-3 mb-md-0"><img src="//y.gtimg.cn/mediastyle/yqq/img/logo.png" class="brand-img"></a>
             <div class="col-md-6 col-8 d-flex flex-row justify-content-between h-100 p-0">
-                <router-link to="/population" class="nav-item active">流行</router-link>
+                <router-link to="/population" class="nav-item">流行</router-link>
                 <router-link to="/hotsong" class="nav-item">热歌</router-link>
                 <router-link to="/newsong" class="nav-item">新歌</router-link>
                 <router-link to="/singer" class="nav-item">歌手</router-link>
@@ -11,8 +11,8 @@
             </div>
             <div class="col-md-3 col-4 d-flex flex-nowrap justify-content-center p-0">
                 <a href="#"><span class="search-icon"></span></a>
-                <input type="text" class="search-input" placeholder="search" ref="input" @input="search($event.target.value), isShow=!isShow"  @keydown.down.prevent="change(nowIndex)" @keydown.up.prevent="upchange(nowIndex)" @keydown.enter="g_play">
-                <div class="info-box d-flex flex-column p-0" :class="{ show: isShow }">
+                <input type="text" class="search-input" placeholder="search" ref="input" @input="search($event.target.value)" @click="isShow=!isShow, $event.target.value=''" @keydown.down.prevent="change(nowIndex)" @keydown.up.prevent="upchange(nowIndex)" @keydown.enter="g_play">
+                <div class="info-box d-flex flex-column p-0" :class="{ show: isShow }" @mouseover="isShow=false" @mouseout="isShow=true">
                     <span v-for="(singer,index) in info" :key="index" class="search_response my-1" :class="{ beSelect : index === nowIndex }" @click="g_play2(index)"> {{ singer.singer }}  {{ singer.name }}  </span>
                 </div>
             </div>
@@ -65,6 +65,7 @@
 </script>
 
 <style>
+
 .active {
   background: #31c27c;
   color: #fff;
@@ -91,7 +92,7 @@
    outline: 0;
 }
 
-.active {
+.router-link-active {
     background: #31c27c;
     color: #fff!important;
 }

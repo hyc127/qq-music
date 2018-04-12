@@ -1,7 +1,6 @@
 <template>
   <div id="app" class="pt-3">
     <head-component class="mb-3"></head-component>
-      
     <!-- <div class="container p-0">
       <div class="navbar d-flex flex-row justify-content-between p-0 mb-5">
         <a class="navbar-brand col-md-2 col-bg-12 m-0 p-0"><img src="//y.gtimg.cn/mediastyle/yqq/img/logo.png" class="brand-img"></a>
@@ -91,6 +90,7 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
+  height: 100vh;
   color: #2c3e50;
 }
 
@@ -112,6 +112,7 @@ a {
     font-size: 12px;
   }
 }
+
 
 /* .navbar {
   height: 46px;

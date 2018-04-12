@@ -6,14 +6,18 @@ import headComponent from './components/head'
 import '../node_modules/bootstrap/dist/css/bootstrap.css'
 import VueRouter from 'vue-router'
 
-import test from './components/song/song.vue'
+import popular from './components/song/song.vue'
+import hotsong from './components/hotsong/hotsong.vue'
+import home from './components/home/home.vue'
 
 
 Vue.use(VueRouter)
 Vue.use(headComponent)
 
 const routes = [
-  { path: '/population', component: test },
+  { path: '/population', component: popular },
+  { path: '/hotsong', component: hotsong},
+  { path: '/', component: home }
 ]
 
 const router = new VueRouter({

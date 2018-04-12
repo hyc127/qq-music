@@ -5,17 +5,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
+    <script src="http://qzs.qq.com/tencentvideo_v1/js/tvp/tvp.player.js" charset="utf-8"></script>
 </head>
 <body>
     <script>
-
-        var jsonCallback = function(data){
-            console.log(data);
-        }
-        var url = 'https://c.y.qq.com/v8/fcg-bin/fcg_v8_toplist_opt.fcg?page=index&format=html&tpl=macv4&v8debug=1&jsonCallback=jsonCallback';
-        var script = document.createElement('script');
-        script.setAttribute('src', url);
-        document.getElementsByTagName('head')[0].appendChild(script);
+        var video = new tvp.VideoInfo();  
+        video.setVid("o00268skpm9");//视频vid  
+        var player = new tvp.Player(750, 450);//视频高宽  
+        player.setCurVideo(video);  
+        player.addParam("autoplay","0");//是否自动播放，1为自动播放，0为不自动播放  
+        player.addParam("wmode","opaque");  
+        player.addParam("showend",0);  
+        player.addParam("adplay",0);    
+        player.addParam("wmode","transparent");  
+        player.addParam("pic","http://ossweb-img.qq.com/images/roco/act/a20120925movie/video_pic.jpg");//默认图片地址  
+        player.addParam("flashskin", "http://imgcache.qq.com/minivideo_v1/vd/res/skins/TencentPlayerMiniSkin.swf");//是否调用精简皮肤，不使用则删掉此行代码  
+        player.write("videoCon");  
     </script>
 </body>
 </html>

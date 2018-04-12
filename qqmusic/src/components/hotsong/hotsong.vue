@@ -1,34 +1,19 @@
 <template>
-    <div class="music_box text-muted mt-4">
-        <div class="music_item mb-2" v-for="(songs, index) in singer" :key="index">
-          <div class="card d-flex flex-row justify-content-between align-items-center">
-                <h5 class="col-1"><span class="badge badge-secondary" v-text="index+1">1</span></h5>
-                <img class="col-1 rounded" height="auto"  :src="songs.songimgid" alt="Card image cap">
-                <div v-text="songs.songname" class="col-4">物是人非</div>
-                <div v-text="songs.singername" class="col-3">成龙</div>
-                <div class="card-text col-2" v-text="songs.songtime">03：42</div>
-                <button class="btn btn-sm btn-primary col-1" @click="playM(index)">播放</button>
-          </div>
+    <div class="d-flex flex-row flex-wrap mt-4">
+        <div class="card col-4 col-md-3 col-bg-2" v-for="(song,index) in singer" :key="index">
+            <img :src="song.songimgid" class="card-img-top">
+            <div class="card-body">
+                <p class="card-title m-0" v-text="song.songname">Card title</p>
+                <p class="card-text m-0" v-text="song.singername">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <p class="text-muted m-0" v-text="song.songtime"></p>
+                <a class="btn btn-sm btn-secondary" @click.prevent="playM(index)">播放</a>
+            </div>
         </div>
-      </div>
+    </div>
 </template>
 
 
 <script>
-
-import jquery from 'jquery'
-
-// function getDate() {
-//     var date = new Date();
-//     var year = date.getFullYear() 
-//     var month = date.getMonth() < 9? '0' + (date.getMonth()+1) : (date.getMonth()+1) 
-//     var day = date.getDate() < 10 ? '0' + date.getDate() : date.getDate()
-//     var newDate = year + '-' + month + '-' + day
-//     return newDate;                          
-// }
-
-// var today = getDate();
-
 export default {
     data : function() {
         return {
@@ -38,7 +23,6 @@ export default {
     methods: {
         playM: function(val) {
             player.play(this.singer[val].songid, function(err){
-                console.log(val);
                 alert(err);
             })
         },
@@ -53,7 +37,7 @@ export default {
             return $.ajax({
                 type: "get",
                 async: false,
-                url: "https://c.y.qq.com/v8/fcg-bin/fcg_v8_toplist_cp.fcg?tpl=3&page=detail&topid=4&type=top&song_begin=0&song_num=30&&jsonpCallback=?&format=jsonp",
+                url: "https://c.y.qq.com/v8/fcg-bin/fcg_v8_toplist_cp.fcg?tpl=3&page=detail&date=2018_13&topid=26&type=top&song_begin=0&song_num=32&g_tk=2071019791&jsonpCallback=?&format=jsonp",
                 dataType: "jsonp",
                 jsonp: "callback",
                 jsonpCallback: "jsonCallback",
@@ -76,15 +60,8 @@ export default {
             })
         }
     },
-    created: function() {
+    created : function() {
         this.getM;
     }
 }
-
-
 </script>
-
-<style>
-
-</style>
-
