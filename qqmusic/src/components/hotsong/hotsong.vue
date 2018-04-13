@@ -4,7 +4,7 @@
             <img :src="song.songimgid" class="card-img-top">
             <div class="card-body">
                 <p class="card-title m-0" v-text="song.songname">Card title</p>
-                <p class="card-text m-0" v-text="song.singername">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <p class="card-text m-0" v-text="song.singername"></p>
                 <p class="text-muted m-0" v-text="song.songtime"></p>
                 <a class="btn btn-sm btn-secondary" @click.prevent="playM(index)">播放</a>
             </div>
@@ -37,7 +37,7 @@ export default {
             return $.ajax({
                 type: "get",
                 async: false,
-                url: "https://c.y.qq.com/v8/fcg-bin/fcg_v8_toplist_cp.fcg?tpl=3&page=detail&date=2018_13&topid=26&type=top&song_begin=0&song_num=32&g_tk=2071019791&jsonpCallback=?&format=jsonp",
+                url: "https://c.y.qq.com/v8/fcg-bin/fcg_v8_toplist_cp.fcg?tpl=3&page=detail&topid=26&type=top&song_begin=0&song_num=32&g_tk=2071019791&jsonpCallback=?&format=jsonp",
                 dataType: "jsonp",
                 jsonp: "callback",
                 jsonpCallback: "jsonCallback",
@@ -53,10 +53,7 @@ export default {
                             songtime: this.getTimeL(songs[i].data.interval)
                         })
                     }
-                }.bind(this),
-                error: function() {
-                    alert('fail')
-                }
+                }.bind(this)
             })
         }
     },

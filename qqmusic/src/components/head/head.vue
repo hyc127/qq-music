@@ -5,8 +5,8 @@
             <div class="col-md-6 col-8 d-flex flex-row justify-content-between h-100 p-0">
                 <router-link to="/population" class="nav-item">流行</router-link>
                 <router-link to="/hotsong" class="nav-item">热歌</router-link>
-                <router-link to="/newsong" class="nav-item">新歌</router-link>
-                <router-link to="/singer" class="nav-item">歌手</router-link>
+                <router-link to="/mv" class="nav-item">MV</router-link>
+                <router-link to="/album" class="nav-item">歌手</router-link>
                 <router-link to="/euro" class="nav-item">欧美</router-link>
             </div>
             <div class="col-md-3 col-4 d-flex flex-nowrap justify-content-center p-0">
