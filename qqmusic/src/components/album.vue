@@ -38,18 +38,22 @@
         </div>
 
         <div class="col-10 p-0 mx-auto mb-1" v-for="(radio,index) in radios" :key="index">
-            <p class="text-muted text-left display-3 m-4" v-text="radio.name"></p>
+            <p class="text-muted text-left display-3 m-2" v-text="radio.name"></p>
             <div class="radio-items d-flex flex-row flex-wrap justify-content-between mb-3">
                 <div class="radio-item p-1 col-4 col-md-3" v-for="(radioList,radiosListIndex) in radio.radioLists" :key="radiosListIndex">
                     <div class="img-container">
                         <img :src="radioList.radioImg" class="radio-item-img img-fluid">
-                        <img src="https://y.gtimg.cn/mediastyle/yqq/img/cover_play@2x.png?max_age=2592000&v=88abebcbc1242dbbbbc836cc3e04a006&v=10e4305a2558d496548955434eaa30d9" class="cover">
+                        <img @click="playRadio(radioList.radioId)" src="https://y.gtimg.cn/mediastyle/yqq/img/cover_play@2x.png?max_age=2592000&v=88abebcbc1242dbbbbc836cc3e04a006&v=10e4305a2558d496548955434eaa30d9" class="cover">
                         <i class="mask"></i>
                     </div>
                     <p class="my-1" v-text="radioList.radioName"></p>
                     <p class="text-muted">播放量：{{ radioList.listenNum }} </p>
                 </div>
             </div>
+        </div>
+        <div class="btn-group btn-grop-sm">
+            <button class="btn btn-secondary rounded" @click="playPrev">prev</button>
+            <button class="btn btn-secondary rounded" @click="playNext">next</button>
         </div>
     </div>
 </template>
@@ -153,7 +157,26 @@ export default {
             }
         },
         playRadio: function(id) {
-
+            var _this = this
+            $.ajax({
+                url: 'https://u.y.qq.com/cgi-bin/musicu.fcg?callback=getradiosonglist938672363188894&g_tk=5381&jsonpCallback=getradiosonglist938672363188894&&data=%7B%22songlist%22%3A%7B%22module%22%3A%22pf.radiosvr%22%2C%22method%22%3A%22GetRadiosonglist%22%2C%22param%22%3A%7B%22id%22%3A'+ id +'%2C%22firstplay%22%3A1%2C%22num%22%3A10%7D%7D%2C%22radiolist%22%3A%7B%22module%22%3A%22pf.radiosvr%22%2C%22method%22%3A%22GetRadiolist%22%2C%22param%22%3A%7B%22ct%22%3A%2224%22%7D%7D%2C%22comm%22%3A%7B%22ct%22%3A%2224%22%7D%7D',
+                type: 'get',
+                dataType:'jsonp',
+                success: function(data){
+                    var radiolist = data.songlist.data.track_list;
+                    var playlist = []
+                    radiolist.forEach(function(val){
+                        playlist.push(val.mid)
+                    })
+                    player.play(playlist)
+                }
+            })
+        },
+        playPrev: function() {
+            player.playPrev()
+        },
+        playNext: function() {
+            player.playNext()
         } 
     },
     created: function() {
@@ -229,16 +252,12 @@ export default {
         opacity: .5;
     }
 
-    .radio-item-img {
-        border-radius: .5rem;
-        border: 1px solid #eee;
-        box-shadow: 0 1px 4px rgba(0, 0, 0, 0.27), 0 0 40px rgba(0, 0, 0, 0.06) inset;
-    }
-
     .img-container {
         position: relative;
         overflow: hidden;
         cursor: pointer;
+        box-shadow: 0 1px 4px rgba(0, 0, 0, 0.27), 0 0 40px rgba(0, 0, 0, 0.06) inset;
+        border-radius: .5rem;
     }
 
     .img-container:hover .cover {
@@ -279,6 +298,12 @@ export default {
         height: 100%;
         background: black;
         opacity: 0;
+    }
+    .btn-group {
+        position: fixed;
+        display: block;
+        width: 100%;
+        top: 93%;
     }
     
 </style>
