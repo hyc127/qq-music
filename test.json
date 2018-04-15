@@ -1,0 +1,2868 @@
+MusicJsonCallback8706630782585307({
+    "code": 0,
+    "data": {
+        "keyword": "imagine dragon",
+        "priority": 0,
+        "qc": [{
+            "text": "imagine dragons",
+            "type": 2
+        }],
+        "semantic": {
+            "curnum": 0,
+            "curpage": 1,
+            "list": [],
+            "totalnum": 0
+        },
+        "song": {
+            "curnum": 30,
+            "curpage": 1,
+            "list": [{
+                "action": {
+                    "alert": 11,
+                    "icons": 4680,
+                    "msg": 0,
+                    "switch": 79635
+                },
+                "album": {
+                    "id": 97672,
+                    "mid": "001H5FTk2JKCCT",
+                    "name": "Continued Silence",
+                    "subtitle": "《九层妖塔》电影主题曲",
+                    "title": "Continued Silence",
+                    "title_hilight": "Continued Silence"
+                },
+                "chinesesinger": 0,
+                "desc": "",
+                "desc_hilight": "",
+                "docid": "13795218878872393861",
+                "file": {
+                    "media_mid": "000XIqSK0YYIiL",
+                    "size_128": 2813598,
+                    "size_320": 7030179,
+                    "size_aac": 4008421,
+                    "size_ape": 19931303,
+                    "size_dts": 0,
+                    "size_flac": 20054710,
+                    "size_ogg": 3607913,
+                    "size_try": 336038,
+                    "strMediaMid": "000XIqSK0YYIiL",
+                    "try_begin": 44891,
+                    "try_end": 65831
+                },
+                "fnote": 8013,
+                "genre": 37,
+                "grp": [],
+                "id": 1149425,
+                "index_album": 2,
+                "index_cd": 0,
+                "interval": 175,
+                "isonly": 0,
+                "ksong": {
+                    "id": 51110,
+                    "mid": "002991f01nfGAN"
+                },
+                "language": 5,
+                "lyric": "《九层妖塔》电影主题曲",
+                "lyric_hilight": "《九层妖塔》电影主题曲",
+                "mid": "000XIqSK0YYIiL",
+                "mv": {
+                    "id": 198561,
+                    "vid": "r0016b0x92q"
+                },
+                "name": "Demons",
+                "newStatus": 2,
+                "nt": 10000,
+                "pay": {
+                    "pay_down": 0,
+                    "pay_month": 0,
+                    "pay_play": 0,
+                    "pay_status": 0,
+                    "price_album": 0,
+                    "price_track": 0,
+                    "time_free": 0
+                },
+                "pure": 0,
+                "singer": [{
+                    "id": 27158,
+                    "mid": "003W0GsQ2bAxVU",
+                    "name": "Imagine Dragons",
+                    "title": "Imagine Dragons",
+                    "title_hilight": "Imagine Dragons",
+                    "type": 2,
+                    "uin": 0
+                }],
+                "status": 0,
+                "subtitle": "《九层妖塔》电影主题曲",
+                "t": 1,
+                "tag": 10,
+                "time_public": "2012-02-14",
+                "title": "Demons",
+                "title_hilight": "Demons",
+                "type": 0,
+                "url": "http://stream10.qqmusic.qq.com/1149425.wma",
+                "ver": 0,
+                "volume": {
+                    "gain": -12.42099952697754,
+                    "lra": 12.19299983978271,
+                    "peak": 1.0
+                }
+            }, {
+                "action": {
+                    "alert": 100002,
+                    "icons": 8060,
+                    "msg": 14,
+                    "switch": 17413891
+                },
+                "album": {
+                    "id": 97672,
+                    "mid": "001H5FTk2JKCCT",
+                    "name": "Continued Silence",
+                    "subtitle": "《附魔传奇》游戏背景音乐",
+                    "title": "Continued Silence",
+                    "title_hilight": "Continued Silence"
+                },
+                "chinesesinger": 0,
+                "desc": "",
+                "desc_hilight": "",
+                "docid": "7747506827540177123",
+                "file": {
+                    "media_mid": "004W48Vn3R3mly",
+                    "size_128": 3011293,
+                    "size_320": 7524416,
+                    "size_aac": 4642715,
+                    "size_ape": 23042676,
+                    "size_dts": 0,
+                    "size_flac": 23178300,
+                    "size_ogg": 4479609,
+                    "size_try": 484831,
+                    "strMediaMid": "004W48Vn3R3mly",
+                    "try_begin": 55212,
+                    "try_end": 85458
+                },
+                "fnote": 4009,
+                "genre": 36,
+                "grp": [],
+                "id": 1149424,
+                "index_album": 1,
+                "index_cd": 0,
+                "interval": 188,
+                "isonly": 1,
+                "ksong": {
+                    "id": 51109,
+                    "mid": "003nemH61GUHFL"
+                },
+                "language": 5,
+                "lyric": "《附魔传奇》游戏背景音乐",
+                "lyric_hilight": "《附魔传奇》游戏背景音乐",
+                "mid": "004W48Vn3R3mly",
+                "mv": {
+                    "id": 296622,
+                    "vid": "e0015q015n5"
+                },
+                "name": "Radioactive",
+                "newStatus": 2,
+                "nt": 10001,
+                "pay": {
+                    "pay_down": 1,
+                    "pay_month": 1,
+                    "pay_play": 0,
+                    "pay_status": 0,
+                    "price_album": 0,
+                    "price_track": 200,
+                    "time_free": 0
+                },
+                "pure": 0,
+                "singer": [{
+                    "id": 27158,
+                    "mid": "003W0GsQ2bAxVU",
+                    "name": "Imagine Dragons",
+                    "title": "Imagine Dragons",
+                    "title_hilight": "Imagine Dragons",
+                    "type": 2,
+                    "uin": 0
+                }],
+                "status": 0,
+                "subtitle": "《附魔传奇》游戏背景音乐",
+                "t": 1,
+                "tag": 10,
+                "time_public": "2012-02-14",
+                "title": "Radioactive",
+                "title_hilight": "Radioactive",
+                "type": 0,
+                "url": "http://stream10.qqmusic.qq.com/1149424.wma",
+                "ver": 0,
+                "volume": {
+                    "gain": -12.94600009918213,
+                    "lra": 12.17099952697754,
+                    "peak": 1.0
+                }
+            }, {
+                "action": {
+                    "alert": 11,
+                    "icons": 4680,
+                    "msg": 0,
+                    "switch": 79635
+                },
+                "album": {
+                    "id": 464957,
+                    "mid": "000SSfA72xVc4X",
+                    "name": "Radioactive",
+                    "subtitle": "《附魔传奇》游戏插曲",
+                    "title": "Radioactive",
+                    "title_hilight": "Radioactive"
+                },
+                "chinesesinger": 0,
+                "desc": "",
+                "desc_hilight": "",
+                "docid": "11369210883034067687",
+                "file": {
+                    "media_mid": "001pcBpd1AC5o0",
+                    "size_128": 4418078,
+                    "size_320": 11056146,
+                    "size_aac": 6844530,
+                    "size_ape": 0,
+                    "size_dts": 0,
+                    "size_flac": 0,
+                    "size_ogg": 6588339,
+                    "size_try": 0,
+                    "strMediaMid": "001pcBpd1AC5o0",
+                    "try_begin": 0,
+                    "try_end": 0
+                },
+                "fnote": 8013,
+                "genre": 50,
+                "grp": [],
+                "id": 5267259,
+                "index_album": 1,
+                "index_cd": 0,
+                "interval": 276,
+                "isonly": 0,
+                "ksong": {
+                    "id": 2571400,
+                    "mid": "000EpBP74SpRxA"
+                },
+                "language": 5,
+                "lyric": "《附魔传奇》游戏插曲",
+                "lyric_hilight": "《附魔传奇》游戏插曲",
+                "mid": "001pcBpd1AC5o0",
+                "mv": {
+                    "id": 296622,
+                    "vid": "e0015q015n5"
+                },
+                "name": "Radioactive",
+                "newStatus": 2,
+                "nt": 10002,
+                "pay": {
+                    "pay_down": 0,
+                    "pay_month": 0,
+                    "pay_play": 0,
+                    "pay_status": 0,
+                    "price_album": 0,
+                    "price_track": 0,
+                    "time_free": 0
+                },
+                "pure": 0,
+                "singer": [{
+                    "id": 27158,
+                    "mid": "003W0GsQ2bAxVU",
+                    "name": "Imagine Dragons",
+                    "title": "Imagine Dragons",
+                    "title_hilight": "<em>Imagine</em> <em>Dragon</em>s"
+                }, {
+                    "id": 28021,
+                    "mid": "001doCJW3OCmVJ",
+                    "name": "Kendrick Lamar",
+                    "title": "Kendrick Lamar",
+                    "title_hilight": "Kendrick Lamar"
+                }],
+                "status": 0,
+                "subtitle": "《附魔传奇》游戏插曲",
+                "t": 1,
+                "tag": 10,
+                "time_public": "2014-01-27",
+                "title": "Radioactive",
+                "title_hilight": "Radioactive",
+                "type": 0,
+                "url": "http://stream10.qqmusic.qq.com/5267259.wma",
+                "ver": 0,
+                "volume": {
+                    "gain": -12.35599994659424,
+                    "lra": 8.406000137329102,
+                    "peak": 1.0
+                }
+            }, {
+                "action": {
+                    "alert": 100002,
+                    "icons": 8060,
+                    "msg": 14,
+                    "switch": 17413891
+                },
+                "album": {
+                    "id": 70285,
+                    "mid": "00325QrM3BQOwG",
+                    "name": "It’s Time",
+                    "subtitle": "",
+                    "title": "It’s Time",
+                    "title_hilight": "It’s Time"
+                },
+                "chinesesinger": 0,
+                "desc": "",
+                "desc_hilight": "",
+                "docid": "5404965956354579357",
+                "file": {
+                    "media_mid": "0046HRBd0FvKLm",
+                    "size_128": 3843449,
+                    "size_320": 9615393,
+                    "size_aac": 5937149,
+                    "size_ape": 30276220,
+                    "size_dts": 0,
+                    "size_flac": 30348402,
+                    "size_ogg": 5951235,
+                    "size_try": 0,
+                    "strMediaMid": "0046HRBd0FvKLm",
+                    "try_begin": 0,
+                    "try_end": 0
+                },
+                "fnote": 4009,
+                "genre": 50,
+                "grp": [{
+                    "action": {
+                        "alert": 100002,
+                        "icons": 8060,
+                        "msg": 14,
+                        "switch": 17413891
+                    },
+                    "album": {
+                        "id": 97672,
+                        "mid": "001H5FTk2JKCCT",
+                        "name": "Continued Silence",
+                        "subtitle": "",
+                        "title": "Continued Silence",
+                        "title_hilight": "Continued Silence"
+                    },
+                    "chinesesinger": 0,
+                    "desc": "",
+                    "desc_hilight": "",
+                    "docid": "9544101842561557383",
+                    "file": {
+                        "media_mid": "003cWpgs3qe5jQ",
+                        "size_128": 3818790,
+                        "size_320": 9543159,
+                        "size_aac": 5938563,
+                        "size_ape": 30276226,
+                        "size_dts": 0,
+                        "size_flac": 30348402,
+                        "size_ogg": 5908195,
+                        "size_try": 0,
+                        "strMediaMid": "003cWpgs3qe5jQ",
+                        "try_begin": 0,
+                        "try_end": 0
+                    },
+                    "fnote": 4009,
+                    "genre": 0,
+                    "id": 1149428,
+                    "index_album": 5,
+                    "index_cd": 0,
+                    "interval": 238,
+                    "isonly": 1,
+                    "ksong": {
+                        "id": 50646,
+                        "mid": "001ZWKrR4QdYjs"
+                    },
+                    "language": 5,
+                    "lyric": "",
+                    "lyric_hilight": "",
+                    "mid": "003cWpgs3qe5jQ",
+                    "mv": {
+                        "id": 249954,
+                        "vid": "b0013lzkcyt"
+                    },
+                    "name": "It's Time",
+                    "newStatus": 2,
+                    "nt": 10003,
+                    "pay": {
+                        "pay_down": 1,
+                        "pay_month": 1,
+                        "pay_play": 0,
+                        "pay_status": 0,
+                        "price_album": 0,
+                        "price_track": 200,
+                        "time_free": 0
+                    },
+                    "pure": 0,
+                    "singer": [{
+                        "id": 27158,
+                        "mid": "003W0GsQ2bAxVU",
+                        "name": "Imagine Dragons",
+                        "title": "Imagine Dragons",
+                        "title_hilight": "Imagine Dragons",
+                        "type": 2,
+                        "uin": 0
+                    }],
+                    "status": 0,
+                    "subtitle": "",
+                    "t": 1,
+                    "tag": 10,
+                    "time_public": "2012-02-14",
+                    "title": "It's Time",
+                    "title_hilight": "It's Time",
+                    "type": 0,
+                    "url": "http://stream10.qqmusic.qq.com/1149428.wma",
+                    "ver": 0,
+                    "volume": {
+                        "gain": -11.43999958038330,
+                        "lra": 5.998000144958496,
+                        "peak": 0.9660000205039978
+                    }
+                }, {
+                    "action": {
+                        "alert": 100002,
+                        "icons": 8060,
+                        "msg": 14,
+                        "switch": 17413891
+                    },
+                    "album": {
+                        "id": 192798,
+                        "mid": "000wSeT618sBSe",
+                        "name": "It's Time",
+                        "subtitle": "",
+                        "title": "It's Time",
+                        "title_hilight": "It's Time"
+                    },
+                    "chinesesinger": 0,
+                    "desc": "",
+                    "desc_hilight": "",
+                    "docid": "18330705544638495027",
+                    "file": {
+                        "media_mid": "000cB7zL4bRZdl",
+                        "size_128": 3816627,
+                        "size_320": 9541205,
+                        "size_aac": 5940634,
+                        "size_ape": 30267507,
+                        "size_dts": 0,
+                        "size_flac": 30359243,
+                        "size_ogg": 5939459,
+                        "size_try": 0,
+                        "strMediaMid": "000cB7zL4bRZdl",
+                        "try_begin": 0,
+                        "try_end": 0
+                    },
+                    "fnote": 4009,
+                    "genre": 50,
+                    "id": 2468826,
+                    "index_album": 1,
+                    "index_cd": 0,
+                    "interval": 238,
+                    "isonly": 1,
+                    "ksong": {
+                        "id": 50646,
+                        "mid": "001ZWKrR4QdYjs"
+                    },
+                    "language": 5,
+                    "lyric": "",
+                    "lyric_hilight": "",
+                    "mid": "000cB7zL4bRZdl",
+                    "mv": {
+                        "id": 249954,
+                        "vid": "b0013lzkcyt"
+                    },
+                    "name": "It's Time",
+                    "newStatus": 2,
+                    "nt": 10003,
+                    "pay": {
+                        "pay_down": 1,
+                        "pay_month": 1,
+                        "pay_play": 0,
+                        "pay_status": 0,
+                        "price_album": 0,
+                        "price_track": 200,
+                        "time_free": 0
+                    },
+                    "pure": 0,
+                    "singer": [{
+                        "id": 27158,
+                        "mid": "003W0GsQ2bAxVU",
+                        "name": "Imagine Dragons",
+                        "title": "Imagine Dragons",
+                        "title_hilight": "Imagine Dragons",
+                        "type": 2,
+                        "uin": 0
+                    }],
+                    "status": 0,
+                    "subtitle": "",
+                    "t": 1,
+                    "tag": 10,
+                    "time_public": "2012-11-12",
+                    "title": "It's Time",
+                    "title_hilight": "It's Time",
+                    "type": 0,
+                    "url": "http://stream10.qqmusic.qq.com/2468826.wma",
+                    "ver": 0,
+                    "volume": {
+                        "gain": -11.44999980926514,
+                        "lra": 6.222000122070312,
+                        "peak": 1.0
+                    }
+                }],
+                "id": 829543,
+                "index_album": 1,
+                "index_cd": 0,
+                "interval": 240,
+                "isonly": 1,
+                "ksong": {
+                    "id": 50646,
+                    "mid": "001ZWKrR4QdYjs"
+                },
+                "language": 5,
+                "lyric": "",
+                "lyric_hilight": "",
+                "mid": "0046HRBd0FvKLm",
+                "mv": {
+                    "id": 249954,
+                    "vid": "b0013lzkcyt"
+                },
+                "name": "It's Time",
+                "newStatus": 2,
+                "nt": 10003,
+                "pay": {
+                    "pay_down": 1,
+                    "pay_month": 1,
+                    "pay_play": 0,
+                    "pay_status": 0,
+                    "price_album": 0,
+                    "price_track": 200,
+                    "time_free": 0
+                },
+                "pure": 0,
+                "singer": [{
+                    "id": 27158,
+                    "mid": "003W0GsQ2bAxVU",
+                    "name": "Imagine Dragons",
+                    "title": "Imagine Dragons",
+                    "title_hilight": "Imagine Dragons",
+                    "type": 2,
+                    "uin": 0
+                }],
+                "status": 0,
+                "subtitle": "",
+                "t": 1,
+                "tag": 10,
+                "time_public": "2011-04-12",
+                "title": "It's Time",
+                "title_hilight": "It's Time",
+                "type": 0,
+                "url": "http://stream10.qqmusic.qq.com/829543.wma",
+                "ver": 0,
+                "volume": {
+                    "gain": -11.43999958038330,
+                    "lra": 5.998000144958496,
+                    "peak": 0.9660000205039978
+                }
+            }, {
+                "action": {
+                    "alert": 100002,
+                    "icons": 8060,
+                    "msg": 14,
+                    "switch": 17409795
+                },
+                "album": {
+                    "id": 1479347,
+                    "mid": "0033xkGb0pw5gE",
+                    "name": "Suicide Squad: The Album",
+                    "subtitle": "《X特遣队》电影插曲",
+                    "title": "Suicide Squad: The Album",
+                    "title_hilight": "Suicide Squad: The Album"
+                },
+                "chinesesinger": 0,
+                "desc": "",
+                "desc_hilight": "",
+                "docid": "2392270071993961884",
+                "file": {
+                    "media_mid": "002N7v9k2z791W",
+                    "size_128": 3892725,
+                    "size_320": 9731406,
+                    "size_aac": 5892898,
+                    "size_ape": 25937644,
+                    "size_dts": 0,
+                    "size_flac": 26131843,
+                    "size_ogg": 5668173,
+                    "size_try": 0,
+                    "strMediaMid": "002N7v9k2z791W",
+                    "try_begin": 0,
+                    "try_end": 0
+                },
+                "fnote": 4009,
+                "genre": 37,
+                "grp": [],
+                "id": 107437320,
+                "index_album": 2,
+                "index_cd": 0,
+                "interval": 243,
+                "isonly": 1,
+                "ksong": {
+                    "id": 0,
+                    "mid": ""
+                },
+                "language": 5,
+                "lyric": "《X特遣队》电影插曲",
+                "lyric_hilight": "《X特遣队》电影插曲",
+                "mid": "004dykg82QtaAb",
+                "mv": {
+                    "id": 758468,
+                    "vid": "u00200cp2xz"
+                },
+                "name": "Sucker For Pain",
+                "newStatus": 2,
+                "nt": 10004,
+                "pay": {
+                    "pay_down": 1,
+                    "pay_month": 1,
+                    "pay_play": 0,
+                    "pay_status": 0,
+                    "price_album": 0,
+                    "price_track": 200,
+                    "time_free": 0
+                },
+                "pure": 0,
+                "singer": [{
+                    "id": 12743,
+                    "mid": "004GSabG0jxTyO",
+                    "name": "Lil Wayne",
+                    "title": "Lil Wayne",
+                    "title_hilight": "Lil Wayne"
+                }, {
+                    "id": 12978,
+                    "mid": "000CQ06r24Naco",
+                    "name": "Wiz Khalifa",
+                    "title": "Wiz Khalifa",
+                    "title_hilight": "Wiz Khalifa"
+                }, {
+                    "id": 27158,
+                    "mid": "003W0GsQ2bAxVU",
+                    "name": "Imagine Dragons",
+                    "title": "Imagine Dragons",
+                    "title_hilight": "<em>Imagine</em> <em>Dragon</em>s"
+                }, {
+                    "id": 282808,
+                    "mid": "002ldsCH3XnOd2",
+                    "name": "Logic",
+                    "title": "Logic",
+                    "title_hilight": "Logic"
+                }],
+                "status": 0,
+                "subtitle": "《X特遣队》电影插曲",
+                "t": 1,
+                "tag": 10,
+                "time_public": "2016-08-05",
+                "title": "Sucker For Pain",
+                "title_hilight": "Sucker For Pain",
+                "type": 0,
+                "url": "http://stream10.qqmusic.qq.com/107437320.wma",
+                "ver": 0,
+                "volume": {
+                    "gain": -7.276999950408936,
+                    "lra": 7.642000198364258,
+                    "peak": 0.7009999752044678
+                }
+            }, {
+                "action": {
+                    "alert": 100002,
+                    "icons": 8060,
+                    "msg": 14,
+                    "switch": 17413891
+                },
+                "album": {
+                    "id": 530763,
+                    "mid": "002TejT342lym0",
+                    "name": "Battle Cry",
+                    "subtitle": "《变形金刚4：绝迹重生》电影主题曲",
+                    "title": "Battle Cry",
+                    "title_hilight": "Battle Cry"
+                },
+                "chinesesinger": 0,
+                "desc": "",
+                "desc_hilight": "",
+                "docid": "15545974264571569671",
+                "file": {
+                    "media_mid": "000ldSyW0JP7G8",
+                    "size_128": 4390091,
+                    "size_320": 10974829,
+                    "size_aac": 6716299,
+                    "size_ape": 32749897,
+                    "size_dts": 0,
+                    "size_flac": 33182331,
+                    "size_ogg": 6524655,
+                    "size_try": 0,
+                    "strMediaMid": "000ldSyW0JP7G8",
+                    "try_begin": 0,
+                    "try_end": 0
+                },
+                "fnote": 4009,
+                "genre": 1,
+                "grp": [],
+                "id": 5666004,
+                "index_album": 1,
+                "index_cd": 0,
+                "interval": 274,
+                "isonly": 1,
+                "ksong": {
+                    "id": 74771,
+                    "mid": "003Kk6Ip4ZcoQU"
+                },
+                "language": 5,
+                "lyric": "《变形金刚4：绝迹重生》电影主题曲",
+                "lyric_hilight": "《变形金刚4：绝迹重生》电影主题曲",
+                "mid": "001nGk6U3SgwAk",
+                "mv": {
+                    "id": 0,
+                    "vid": ""
+                },
+                "name": "Battle Cry",
+                "newStatus": 2,
+                "nt": 10005,
+                "pay": {
+                    "pay_down": 1,
+                    "pay_month": 1,
+                    "pay_play": 0,
+                    "pay_status": 0,
+                    "price_album": 0,
+                    "price_track": 200,
+                    "time_free": 0
+                },
+                "pure": 0,
+                "singer": [{
+                    "id": 27158,
+                    "mid": "003W0GsQ2bAxVU",
+                    "name": "Imagine Dragons",
+                    "title": "Imagine Dragons",
+                    "title_hilight": "Imagine Dragons",
+                    "type": 2,
+                    "uin": 0
+                }],
+                "status": 0,
+                "subtitle": "《变形金刚4：绝迹重生》电影主题曲",
+                "t": 1,
+                "tag": 10,
+                "time_public": "2014-06-02",
+                "title": "Battle Cry",
+                "title_hilight": "Battle Cry",
+                "type": 0,
+                "url": "http://stream10.qqmusic.qq.com/5666004.wma",
+                "ver": 0,
+                "volume": {
+                    "gain": -10.05000019073486,
+                    "lra": 15.70100021362305,
+                    "peak": 0.9890000224113464
+                }
+            }, {
+                "action": {
+                    "alert": 11,
+                    "icons": 4680,
+                    "msg": 0,
+                    "switch": 79635
+                },
+                "album": {
+                    "id": 2197637,
+                    "mid": "003JmQoM1yayFc",
+                    "name": "It's Time (Cherry Cherry Boom Boom Remix)",
+                    "subtitle": "",
+                    "title": "It's Time (Cherry Cherry Boom Boom Remix)",
+                    "title_hilight": "It's Time (Cherry Cherry Boom Boom Remix)"
+                },
+                "chinesesinger": 0,
+                "desc": "",
+                "desc_hilight": "",
+                "docid": "4617473004445686706",
+                "file": {
+                    "media_mid": "000FncgF38MgoX",
+                    "size_128": 5063581,
+                    "size_320": 0,
+                    "size_aac": 0,
+                    "size_ape": 0,
+                    "size_dts": 0,
+                    "size_flac": 0,
+                    "size_ogg": 0,
+                    "size_try": 0,
+                    "strMediaMid": "000FncgF38MgoX",
+                    "try_begin": 0,
+                    "try_end": 0
+                },
+                "fnote": 8013,
+                "genre": 50,
+                "grp": [],
+                "id": 203531190,
+                "index_album": 1,
+                "index_cd": 0,
+                "interval": 316,
+                "isonly": 0,
+                "ksong": {
+                    "id": 2576272,
+                    "mid": "000gsrNs2LQs5K"
+                },
+                "language": 5,
+                "lyric": "",
+                "lyric_hilight": "",
+                "mid": "000FncgF38MgoX",
+                "mv": {
+                    "id": 0,
+                    "vid": ""
+                },
+                "name": "It's Time",
+                "newStatus": 2,
+                "nt": 10006,
+                "pay": {
+                    "pay_down": 0,
+                    "pay_month": 0,
+                    "pay_play": 0,
+                    "pay_status": 0,
+                    "price_album": 0,
+                    "price_track": 0,
+                    "time_free": 0
+                },
+                "pure": 0,
+                "singer": [{
+                    "id": 27158,
+                    "mid": "003W0GsQ2bAxVU",
+                    "name": "Imagine Dragons",
+                    "title": "Imagine Dragons",
+                    "title_hilight": "Imagine Dragons",
+                    "type": 2,
+                    "uin": 0
+                }],
+                "status": 0,
+                "subtitle": "",
+                "t": 1,
+                "tag": 10,
+                "time_public": "2012-01-01",
+                "title": "It's Time (Cherry Cherry Boom Boom Remix)",
+                "title_hilight": "It's Time (Cherry Cherry Boom Boom Remix)",
+                "type": 0,
+                "url": "http://stream10.qqmusic.qq.com/203531190.wma",
+                "ver": 0,
+                "volume": {
+                    "gain": -10.24199962615967,
+                    "lra": 6.507999897003174,
+                    "peak": 1.0
+                }
+            }, {
+                "action": {
+                    "alert": 100002,
+                    "icons": 8060,
+                    "msg": 14,
+                    "switch": 17413891
+                },
+                "album": {
+                    "id": 961974,
+                    "mid": "003ukkTv2T7jGU",
+                    "name": "Smoke + Mirrors (Deluxe)",
+                    "subtitle": "",
+                    "title": "Smoke + Mirrors (Deluxe)",
+                    "title_hilight": "Smoke + Mirrors (Deluxe)"
+                },
+                "chinesesinger": 0,
+                "desc": "",
+                "desc_hilight": "",
+                "docid": "18002469334326994724",
+                "file": {
+                    "media_mid": "000SlI8m2V2hwh",
+                    "size_128": 3108634,
+                    "size_320": 7771178,
+                    "size_aac": 4615477,
+                    "size_ape": 21916260,
+                    "size_dts": 0,
+                    "size_flac": 22036901,
+                    "size_ogg": 4562277,
+                    "size_try": 0,
+                    "strMediaMid": "000SlI8m2V2hwh",
+                    "try_begin": 0,
+                    "try_end": 0
+                },
+                "fnote": 4009,
+                "genre": 50,
+                "grp": [{
+                    "action": {
+                        "alert": 100002,
+                        "icons": 8060,
+                        "msg": 14,
+                        "switch": 17413891
+                    },
+                    "album": {
+                        "id": 1020674,
+                        "mid": "002OZgX50TyeCk",
+                        "name": "I Bet My Life",
+                        "subtitle": "",
+                        "title": "I Bet My Life",
+                        "title_hilight": "I Bet My Life"
+                    },
+                    "chinesesinger": 0,
+                    "desc": "",
+                    "desc_hilight": "",
+                    "docid": "6096443904450057854",
+                    "file": {
+                        "media_mid": "003flNqq0Qvg2I",
+                        "size_128": 3087722,
+                        "size_320": 7718919,
+                        "size_aac": 4639132,
+                        "size_ape": 0,
+                        "size_dts": 0,
+                        "size_flac": 0,
+                        "size_ogg": 4612872,
+                        "size_try": 0,
+                        "strMediaMid": "003flNqq0Qvg2I",
+                        "try_begin": 0,
+                        "try_end": 0
+                    },
+                    "fnote": 4009,
+                    "genre": 50,
+                    "id": 102679606,
+                    "index_album": 1,
+                    "index_cd": 0,
+                    "interval": 192,
+                    "isonly": 1,
+                    "ksong": {
+                        "id": 115478,
+                        "mid": "000zgAsC1kH8IZ"
+                    },
+                    "language": 5,
+                    "lyric": "",
+                    "lyric_hilight": "",
+                    "mid": "003flNqq0Qvg2I",
+                    "mv": {
+                        "id": 303304,
+                        "vid": "h0015ksqrru"
+                    },
+                    "name": "I Bet My Life",
+                    "newStatus": 2,
+                    "nt": 10007,
+                    "pay": {
+                        "pay_down": 1,
+                        "pay_month": 1,
+                        "pay_play": 0,
+                        "pay_status": 0,
+                        "price_album": 0,
+                        "price_track": 200,
+                        "time_free": 0
+                    },
+                    "pure": 0,
+                    "singer": [{
+                        "id": 27158,
+                        "mid": "003W0GsQ2bAxVU",
+                        "name": "Imagine Dragons",
+                        "title": "Imagine Dragons",
+                        "title_hilight": "Imagine Dragons",
+                        "type": 2,
+                        "uin": 0
+                    }],
+                    "status": 0,
+                    "subtitle": "",
+                    "t": 1,
+                    "tag": 10,
+                    "time_public": "2014-10-27",
+                    "title": "I Bet My Life",
+                    "title_hilight": "I Bet My Life",
+                    "type": 0,
+                    "url": "http://stream10.qqmusic.qq.com/102679606.wma",
+                    "ver": 0,
+                    "volume": {
+                        "gain": -10.34000015258789,
+                        "lra": 15.93099975585938,
+                        "peak": 1.0
+                    }
+                }, {
+                    "action": {
+                        "alert": 100002,
+                        "icons": 8060,
+                        "msg": 14,
+                        "switch": 17413891
+                    },
+                    "album": {
+                        "id": 951409,
+                        "mid": "003M1JDJ3CIA50",
+                        "name": "I Bet My Life (Remixes)",
+                        "subtitle": "",
+                        "title": "I Bet My Life (Remixes)",
+                        "title_hilight": "I Bet My Life (Remixes)"
+                    },
+                    "chinesesinger": 0,
+                    "desc": "",
+                    "desc_hilight": "",
+                    "docid": "14445588404901992133",
+                    "file": {
+                        "media_mid": "003tACTm36EyTs",
+                        "size_128": 3087722,
+                        "size_320": 7718919,
+                        "size_aac": 4639132,
+                        "size_ape": 0,
+                        "size_dts": 0,
+                        "size_flac": 0,
+                        "size_ogg": 4612872,
+                        "size_try": 296750,
+                        "strMediaMid": "003tACTm36EyTs",
+                        "try_begin": 46715,
+                        "try_end": 65184
+                    },
+                    "fnote": 4009,
+                    "genre": 50,
+                    "id": 9073979,
+                    "index_album": 5,
+                    "index_cd": 0,
+                    "interval": 192,
+                    "isonly": 1,
+                    "ksong": {
+                        "id": 115478,
+                        "mid": "000zgAsC1kH8IZ"
+                    },
+                    "language": 5,
+                    "lyric": "",
+                    "lyric_hilight": "",
+                    "mid": "003tACTm36EyTs",
+                    "mv": {
+                        "id": 303304,
+                        "vid": "h0015ksqrru"
+                    },
+                    "name": "I Bet My Life",
+                    "newStatus": 2,
+                    "nt": 10007,
+                    "pay": {
+                        "pay_down": 1,
+                        "pay_month": 1,
+                        "pay_play": 0,
+                        "pay_status": 0,
+                        "price_album": 0,
+                        "price_track": 200,
+                        "time_free": 0
+                    },
+                    "pure": 0,
+                    "singer": [{
+                        "id": 27158,
+                        "mid": "003W0GsQ2bAxVU",
+                        "name": "Imagine Dragons",
+                        "title": "Imagine Dragons",
+                        "title_hilight": "Imagine Dragons",
+                        "type": 2,
+                        "uin": 0
+                    }],
+                    "status": 0,
+                    "subtitle": "",
+                    "t": 1,
+                    "tag": 10,
+                    "time_public": "2015-01-27",
+                    "title": "I Bet My Life",
+                    "title_hilight": "I Bet My Life",
+                    "type": 0,
+                    "url": "http://stream10.qqmusic.qq.com/9073979.wma",
+                    "ver": 0,
+                    "volume": {
+                        "gain": -10.34000015258789,
+                        "lra": 15.93099975585938,
+                        "peak": 1.0
+                    }
+                }],
+                "id": 102819148,
+                "index_album": 5,
+                "index_cd": 0,
+                "interval": 194,
+                "isonly": 1,
+                "ksong": {
+                    "id": 115478,
+                    "mid": "000zgAsC1kH8IZ"
+                },
+                "language": 5,
+                "lyric": "",
+                "lyric_hilight": "",
+                "mid": "000SlI8m2V2hwh",
+                "mv": {
+                    "id": 303304,
+                    "vid": "h0015ksqrru"
+                },
+                "name": "I Bet My Life",
+                "newStatus": 2,
+                "nt": 10007,
+                "pay": {
+                    "pay_down": 1,
+                    "pay_month": 1,
+                    "pay_play": 0,
+                    "pay_status": 0,
+                    "price_album": 0,
+                    "price_track": 200,
+                    "time_free": 0
+                },
+                "pure": 0,
+                "singer": [{
+                    "id": 27158,
+                    "mid": "003W0GsQ2bAxVU",
+                    "name": "Imagine Dragons",
+                    "title": "Imagine Dragons",
+                    "title_hilight": "Imagine Dragons",
+                    "type": 2,
+                    "uin": 0
+                }],
+                "status": 0,
+                "subtitle": "",
+                "t": 1,
+                "tag": 10,
+                "time_public": "2015-02-16",
+                "title": "I Bet My Life",
+                "title_hilight": "I Bet My Life",
+                "type": 0,
+                "url": "http://stream10.qqmusic.qq.com/102819148.wma",
+                "ver": 0,
+                "volume": {
+                    "gain": -9.980999946594238,
+                    "lra": 14.86600017547607,
+                    "peak": 0.9890000224113464
+                }
+            }, {
+                "action": {
+                    "alert": 23,
+                    "icons": 16252,
+                    "msg": 14,
+                    "switch": 17413891
+                },
+                "album": {
+                    "id": 3823930,
+                    "mid": "001cIXmF2JVjaO",
+                    "name": "Thunder / Young Dumb & Broke (Medley)",
+                    "subtitle": "",
+                    "title": "Thunder / Young Dumb & Broke (Medley)",
+                    "title_hilight": "Thunder / Young Dumb & Broke (Medley)"
+                },
+                "chinesesinger": 0,
+                "desc": "",
+                "desc_hilight": "",
+                "docid": "8129856768989574004",
+                "file": {
+                    "media_mid": "003RTkjO1sQnw7",
+                    "size_128": 4021957,
+                    "size_320": 10054362,
+                    "size_aac": 6066760,
+                    "size_ape": 0,
+                    "size_dts": 0,
+                    "size_flac": 0,
+                    "size_ogg": 6065580,
+                    "size_try": 0,
+                    "strMediaMid": "003RTkjO1sQnw7",
+                    "try_begin": 0,
+                    "try_end": 0
+                },
+                "fnote": 4009,
+                "genre": 50,
+                "grp": [],
+                "id": 212582070,
+                "index_album": 1,
+                "index_cd": 0,
+                "interval": 251,
+                "isonly": 1,
+                "ksong": {
+                    "id": 3161235,
+                    "mid": "002wXFFY2Fs51i"
+                },
+                "language": 5,
+                "lyric": "",
+                "lyric_hilight": "",
+                "mid": "001R8qky1BRw8e",
+                "mv": {
+                    "id": 0,
+                    "vid": ""
+                },
+                "name": "Thunder / Young Dumb & Broke (Medley)",
+                "newStatus": 2,
+                "nt": 10008,
+                "pay": {
+                    "pay_down": 1,
+                    "pay_month": 1,
+                    "pay_play": 0,
+                    "pay_status": 0,
+                    "price_album": 0,
+                    "price_track": 200,
+                    "time_free": 0
+                },
+                "pure": 0,
+                "singer": [{
+                    "id": 27158,
+                    "mid": "003W0GsQ2bAxVU",
+                    "name": "Imagine Dragons",
+                    "title": "Imagine Dragons",
+                    "title_hilight": "<em>Imagine</em> <em>Dragon</em>s"
+                }, {
+                    "id": 952356,
+                    "mid": "001oNiEK0wYQqH",
+                    "name": "Khalid",
+                    "title": "Khalid",
+                    "title_hilight": "Khalid"
+                }],
+                "status": 0,
+                "subtitle": "",
+                "t": 1,
+                "tag": 10,
+                "time_public": "2017-12-20",
+                "title": "Thunder / Young Dumb & Broke (Medley)",
+                "title_hilight": "Thunder / Young Dumb & Broke (Medley)",
+                "type": 0,
+                "url": "http://stream10.qqmusic.qq.com/212582070.wma",
+                "ver": 0,
+                "volume": {
+                    "gain": -11.00699996948242,
+                    "lra": 7.320000171661377,
+                    "peak": 1.0
+                }
+            }, {
+                "action": {
+                    "alert": 100002,
+                    "icons": 8060,
+                    "msg": 14,
+                    "switch": 17413891
+                },
+                "album": {
+                    "id": 427829,
+                    "mid": "001lDRKh32uDLx",
+                    "name": "Iron Man 3: Heroes Fall (Music Inspired By the Motion Picture)",
+                    "subtitle": "《钢铁侠3》电影插曲",
+                    "title": "Iron Man 3: Heroes Fall (Music Inspired By the Motion Picture)",
+                    "title_hilight": "Iron Man 3: Heroes Fall (Music Inspired By the Motion Picture)"
+                },
+                "chinesesinger": 0,
+                "desc": "",
+                "desc_hilight": "",
+                "docid": "4338077200070118584",
+                "file": {
+                    "media_mid": "003LGjUV2IaB4s",
+                    "size_128": 3841003,
+                    "size_320": 9601943,
+                    "size_aac": 5909991,
+                    "size_ape": 28070657,
+                    "size_dts": 0,
+                    "size_flac": 28218269,
+                    "size_ogg": 6269556,
+                    "size_try": 0,
+                    "strMediaMid": "003LGjUV2IaB4s",
+                    "try_begin": 0,
+                    "try_end": 0
+                },
+                "fnote": 4009,
+                "genre": 1,
+                "grp": [],
+                "id": 4815473,
+                "index_album": 1,
+                "index_cd": 0,
+                "interval": 239,
+                "isonly": 1,
+                "ksong": {
+                    "id": 233819,
+                    "mid": "003R6lYr0tC8h5"
+                },
+                "language": 5,
+                "lyric": "《钢铁侠3》电影插曲",
+                "lyric_hilight": "《钢铁侠3》电影插曲",
+                "mid": "003LGjUV2IaB4s",
+                "mv": {
+                    "id": 0,
+                    "vid": ""
+                },
+                "name": "Ready Aim Fire",
+                "newStatus": 2,
+                "nt": 10009,
+                "pay": {
+                    "pay_down": 1,
+                    "pay_month": 1,
+                    "pay_play": 0,
+                    "pay_status": 0,
+                    "price_album": 0,
+                    "price_track": 200,
+                    "time_free": 0
+                },
+                "pure": 0,
+                "singer": [{
+                    "id": 27158,
+                    "mid": "003W0GsQ2bAxVU",
+                    "name": "Imagine Dragons",
+                    "title": "Imagine Dragons",
+                    "title_hilight": "Imagine Dragons",
+                    "type": 2,
+                    "uin": 0
+                }],
+                "status": 0,
+                "subtitle": "《钢铁侠3》电影插曲",
+                "t": 1,
+                "tag": 10,
+                "time_public": "2013-04-22",
+                "title": "Ready Aim Fire",
+                "title_hilight": "Ready Aim Fire",
+                "type": 0,
+                "url": "http://stream10.qqmusic.qq.com/4815473.wma",
+                "ver": 0,
+                "volume": {
+                    "gain": -9.576000213623047,
+                    "lra": 9.116000175476074,
+                    "peak": 1.0
+                }
+            }, {
+                "action": {
+                    "alert": 100002,
+                    "icons": 8060,
+                    "msg": 14,
+                    "switch": 17413891
+                },
+                "album": {
+                    "id": 1719230,
+                    "mid": "000mK5Mw4V5nnV",
+                    "name": "Levitate (From The Original Motion Picture “Passengers”)",
+                    "subtitle": "《太空旅客》电影主题曲",
+                    "title": "Levitate (From The Original Motion Picture “Passengers”)",
+                    "title_hilight": "Levitate (From The Original Motion Picture “Passengers”)"
+                },
+                "chinesesinger": 0,
+                "desc": "",
+                "desc_hilight": "",
+                "docid": "14115623297916203935",
+                "file": {
+                    "media_mid": "0016jWZp1VHlro",
+                    "size_128": 3172226,
+                    "size_320": 7930064,
+                    "size_aac": 4795283,
+                    "size_ape": 25481335,
+                    "size_dts": 0,
+                    "size_flac": 25645740,
+                    "size_ogg": 4831604,
+                    "size_try": 0,
+                    "strMediaMid": "0016jWZp1VHlro",
+                    "try_begin": 0,
+                    "try_end": 0
+                },
+                "fnote": 4009,
+                "genre": 50,
+                "grp": [],
+                "id": 109472923,
+                "index_album": 1,
+                "index_cd": 0,
+                "interval": 198,
+                "isonly": 1,
+                "ksong": {
+                    "id": 2441797,
+                    "mid": "002gFoGF1LRLH2"
+                },
+                "language": 5,
+                "lyric": "《太空旅客》电影主题曲",
+                "lyric_hilight": "《太空旅客》电影主题曲",
+                "mid": "000fNVH14JDmrN",
+                "mv": {
+                    "id": 1062270,
+                    "vid": "t0022itoxv6"
+                },
+                "name": "Levitate",
+                "newStatus": 2,
+                "nt": 10010,
+                "pay": {
+                    "pay_down": 1,
+                    "pay_month": 1,
+                    "pay_play": 0,
+                    "pay_status": 0,
+                    "price_album": 0,
+                    "price_track": 200,
+                    "time_free": 0
+                },
+                "pure": 0,
+                "singer": [{
+                    "id": 27158,
+                    "mid": "003W0GsQ2bAxVU",
+                    "name": "Imagine Dragons",
+                    "title": "Imagine Dragons",
+                    "title_hilight": "Imagine Dragons",
+                    "type": 2,
+                    "uin": 0
+                }],
+                "status": 0,
+                "subtitle": "《太空旅客》电影主题曲",
+                "t": 1,
+                "tag": 10,
+                "time_public": "2016-12-02",
+                "title": "Levitate",
+                "title_hilight": "Levitate",
+                "type": 0,
+                "url": "http://stream10.qqmusic.qq.com/109472923.wma",
+                "ver": 0,
+                "volume": {
+                    "gain": -10.61600017547607,
+                    "lra": 9.284999847412109,
+                    "peak": 1.0
+                }
+            }, {
+                "action": {
+                    "alert": 100002,
+                    "icons": 8060,
+                    "msg": 14,
+                    "switch": 17413891
+                },
+                "album": {
+                    "id": 961974,
+                    "mid": "003ukkTv2T7jGU",
+                    "name": "Smoke + Mirrors (Deluxe)",
+                    "subtitle": "《英雄联盟》2014全球总决赛主题曲",
+                    "title": "Smoke + Mirrors (Deluxe)",
+                    "title_hilight": "Smoke + Mirrors (Deluxe)"
+                },
+                "chinesesinger": 0,
+                "desc": "",
+                "desc_hilight": "",
+                "docid": "15240037438207654159",
+                "file": {
+                    "media_mid": "001cXL1P2AD00h",
+                    "size_128": 2738730,
+                    "size_320": 6846433,
+                    "size_aac": 4175491,
+                    "size_ape": 20460603,
+                    "size_dts": 0,
+                    "size_flac": 20570828,
+                    "size_ogg": 3984603,
+                    "size_try": 403747,
+                    "strMediaMid": "001cXL1P2AD00h",
+                    "try_begin": 31489,
+                    "try_end": 56668
+                },
+                "fnote": 4009,
+                "genre": 50,
+                "grp": [],
+                "id": 102819161,
+                "index_album": 18,
+                "index_cd": 1,
+                "interval": 171,
+                "isonly": 1,
+                "ksong": {
+                    "id": 114676,
+                    "mid": "002fBbCr3wFIw8"
+                },
+                "language": 5,
+                "lyric": "《英雄联盟》2014全球总决赛主题曲",
+                "lyric_hilight": "《英雄联盟》2014全球总决赛主题曲",
+                "mid": "001cXL1P2AD00h",
+                "mv": {
+                    "id": 297841,
+                    "vid": "b00168ixqiw"
+                },
+                "name": "Warriors",
+                "newStatus": 2,
+                "nt": 10011,
+                "pay": {
+                    "pay_down": 1,
+                    "pay_month": 1,
+                    "pay_play": 0,
+                    "pay_status": 0,
+                    "price_album": 0,
+                    "price_track": 200,
+                    "time_free": 0
+                },
+                "pure": 0,
+                "singer": [{
+                    "id": 27158,
+                    "mid": "003W0GsQ2bAxVU",
+                    "name": "Imagine Dragons",
+                    "title": "Imagine Dragons",
+                    "title_hilight": "Imagine Dragons",
+                    "type": 2,
+                    "uin": 0
+                }],
+                "status": 0,
+                "subtitle": "《英雄联盟》2014全球总决赛主题曲",
+                "t": 1,
+                "tag": 10,
+                "time_public": "2015-02-16",
+                "title": "Warriors",
+                "title_hilight": "Warriors",
+                "type": 0,
+                "url": "http://stream10.qqmusic.qq.com/102819161.wma",
+                "ver": 0,
+                "volume": {
+                    "gain": -11.10400009155273,
+                    "lra": 8.517999649047852,
+                    "peak": 1.0
+                }
+            }, {
+                "action": {
+                    "alert": 100002,
+                    "icons": 8060,
+                    "msg": 14,
+                    "switch": 17413891
+                },
+                "album": {
+                    "id": 97672,
+                    "mid": "001H5FTk2JKCCT",
+                    "name": "Continued Silence",
+                    "subtitle": "",
+                    "title": "Continued Silence",
+                    "title_hilight": "Continued Silence"
+                },
+                "chinesesinger": 0,
+                "desc": "",
+                "desc_hilight": "",
+                "docid": "12728782075125369703",
+                "file": {
+                    "media_mid": "003r4sYW005Lo0",
+                    "size_128": 3077711,
+                    "size_320": 7693861,
+                    "size_aac": 4605457,
+                    "size_ape": 22046951,
+                    "size_dts": 0,
+                    "size_flac": 22232394,
+                    "size_ogg": 4377506,
+                    "size_try": 0,
+                    "strMediaMid": "003r4sYW005Lo0",
+                    "try_begin": 0,
+                    "try_end": 0
+                },
+                "fnote": 4009,
+                "genre": 1,
+                "grp": [{
+                    "action": {
+                        "alert": 100002,
+                        "icons": 8060,
+                        "msg": 14,
+                        "switch": 17413891
+                    },
+                    "album": {
+                        "id": 1549497,
+                        "mid": "001JZvP71oO0vI",
+                        "name": "FIFA 13",
+                        "subtitle": "",
+                        "title": "FIFA 13",
+                        "title_hilight": "FIFA 13"
+                    },
+                    "chinesesinger": 0,
+                    "desc": "",
+                    "desc_hilight": "",
+                    "docid": "6037800915567815234",
+                    "file": {
+                        "media_mid": "001tjR8X2rJGCS",
+                        "size_128": 3088140,
+                        "size_320": 0,
+                        "size_aac": 0,
+                        "size_ape": 0,
+                        "size_dts": 0,
+                        "size_flac": 0,
+                        "size_ogg": 0,
+                        "size_try": 0,
+                        "strMediaMid": "001tjR8X2rJGCS",
+                        "try_begin": 0,
+                        "try_end": 0
+                    },
+                    "fnote": 4009,
+                    "genre": 37,
+                    "id": 107953068,
+                    "index_album": 20,
+                    "index_cd": 0,
+                    "interval": 192,
+                    "isonly": 1,
+                    "ksong": {
+                        "id": 2452999,
+                        "mid": "0006TzjM1k7rAT"
+                    },
+                    "language": 5,
+                    "lyric": "",
+                    "lyric_hilight": "",
+                    "mid": "004PlhA90dYAvF",
+                    "mv": {
+                        "id": 263907,
+                        "vid": "d0016pi4jly"
+                    },
+                    "name": "On Top Of The World",
+                    "newStatus": 2,
+                    "nt": 10012,
+                    "pay": {
+                        "pay_down": 1,
+                        "pay_month": 1,
+                        "pay_play": 0,
+                        "pay_status": 0,
+                        "price_album": 0,
+                        "price_track": 200,
+                        "time_free": 0
+                    },
+                    "pure": 0,
+                    "singer": [{
+                        "id": 27158,
+                        "mid": "003W0GsQ2bAxVU",
+                        "name": "Imagine Dragons",
+                        "title": "Imagine Dragons",
+                        "title_hilight": "Imagine Dragons",
+                        "type": 2,
+                        "uin": 0
+                    }],
+                    "status": 0,
+                    "subtitle": "",
+                    "t": 1,
+                    "tag": 10,
+                    "time_public": "2012-09-25",
+                    "title": "On Top Of The World",
+                    "title_hilight": "On Top Of The World",
+                    "type": 0,
+                    "url": "http://stream10.qqmusic.qq.com/107953068.wma",
+                    "ver": 0,
+                    "volume": {
+                        "gain": -10.69200038909912,
+                        "lra": 8.300000190734863,
+                        "peak": 1.0
+                    }
+                }, {
+                    "action": {
+                        "alert": 100002,
+                        "icons": 8060,
+                        "msg": 14,
+                        "switch": 17413891
+                    },
+                    "album": {
+                        "id": 144638,
+                        "mid": "0010BlU31fxTXS",
+                        "name": "Night Visions (Deluxe Version)",
+                        "subtitle": "",
+                        "title": "Night Visions (Deluxe Version)",
+                        "title_hilight": "Night Visions (Deluxe Version)"
+                    },
+                    "chinesesinger": 0,
+                    "desc": "",
+                    "desc_hilight": "",
+                    "docid": "17431713281979191679",
+                    "file": {
+                        "media_mid": "000wJdUw2ciMx2",
+                        "size_128": 3069378,
+                        "size_320": 7672989,
+                        "size_aac": 4626283,
+                        "size_ape": 0,
+                        "size_dts": 0,
+                        "size_flac": 0,
+                        "size_ogg": 4427289,
+                        "size_try": 0,
+                        "strMediaMid": "000wJdUw2ciMx2",
+                        "try_begin": 0,
+                        "try_end": 0
+                    },
+                    "fnote": 4009,
+                    "genre": 50,
+                    "id": 5129198,
+                    "index_album": 5,
+                    "index_cd": 0,
+                    "interval": 191,
+                    "isonly": 1,
+                    "ksong": {
+                        "id": 2452999,
+                        "mid": "0006TzjM1k7rAT"
+                    },
+                    "language": 5,
+                    "lyric": "",
+                    "lyric_hilight": "",
+                    "mid": "002kRQdg0SmPN3",
+                    "mv": {
+                        "id": 263907,
+                        "vid": "d0016pi4jly"
+                    },
+                    "name": "On Top Of The World",
+                    "newStatus": 2,
+                    "nt": 10012,
+                    "pay": {
+                        "pay_down": 1,
+                        "pay_month": 1,
+                        "pay_play": 0,
+                        "pay_status": 0,
+                        "price_album": 0,
+                        "price_track": 200,
+                        "time_free": 0
+                    },
+                    "pure": 0,
+                    "singer": [{
+                        "id": 27158,
+                        "mid": "003W0GsQ2bAxVU",
+                        "name": "Imagine Dragons",
+                        "title": "Imagine Dragons",
+                        "title_hilight": "Imagine Dragons",
+                        "type": 2,
+                        "uin": 0
+                    }],
+                    "status": 0,
+                    "subtitle": "",
+                    "t": 1,
+                    "tag": 10,
+                    "time_public": "2013-02-12",
+                    "title": "On Top Of The World",
+                    "title_hilight": "On Top Of The World",
+                    "type": 0,
+                    "url": "http://stream10.qqmusic.qq.com/5129198.wma",
+                    "ver": 0,
+                    "volume": {
+                        "gain": -10.04100036621094,
+                        "lra": 8.258999824523926,
+                        "peak": 0.9520000219345093
+                    }
+                }],
+                "id": 1149426,
+                "index_album": 3,
+                "index_cd": 0,
+                "interval": 192,
+                "isonly": 1,
+                "ksong": {
+                    "id": 2452999,
+                    "mid": "0006TzjM1k7rAT"
+                },
+                "language": 5,
+                "lyric": "",
+                "lyric_hilight": "",
+                "mid": "001CMOqj2N0FVS",
+                "mv": {
+                    "id": 263907,
+                    "vid": "d0016pi4jly"
+                },
+                "name": "On Top Of The World",
+                "newStatus": 2,
+                "nt": 10012,
+                "pay": {
+                    "pay_down": 1,
+                    "pay_month": 1,
+                    "pay_play": 0,
+                    "pay_status": 0,
+                    "price_album": 0,
+                    "price_track": 200,
+                    "time_free": 0
+                },
+                "pure": 0,
+                "singer": [{
+                    "id": 27158,
+                    "mid": "003W0GsQ2bAxVU",
+                    "name": "Imagine Dragons",
+                    "title": "Imagine Dragons",
+                    "title_hilight": "Imagine Dragons",
+                    "type": 2,
+                    "uin": 0
+                }],
+                "status": 0,
+                "subtitle": "",
+                "t": 1,
+                "tag": 10,
+                "time_public": "2012-02-14",
+                "title": "On Top Of The World",
+                "title_hilight": "On Top Of The World",
+                "type": 0,
+                "url": "http://stream10.qqmusic.qq.com/1149426.wma",
+                "ver": 0,
+                "volume": {
+                    "gain": -11.11999988555908,
+                    "lra": 8.250,
+                    "peak": 1.0
+                }
+            }, {
+                "action": {
+                    "alert": 100007,
+                    "icons": 0,
+                    "msg": 13,
+                    "switch": 594177
+                },
+                "album": {
+                    "id": 2049615,
+                    "mid": "0019j13c2H7dWD",
+                    "name": "Evolve",
+                    "subtitle": "任天堂Switch广告主题曲|《东方快车谋杀案》电影预告插曲",
+                    "title": "Evolve",
+                    "title_hilight": "Evolve"
+                },
+                "chinesesinger": 0,
+                "desc": "",
+                "desc_hilight": "",
+                "docid": "12174941792136624806",
+                "file": {
+                    "media_mid": "003fqAb20MUoy2",
+                    "size_128": 3270764,
+                    "size_320": 8176560,
+                    "size_aac": 4925656,
+                    "size_ape": 25323833,
+                    "size_dts": 0,
+                    "size_flac": 25481194,
+                    "size_ogg": 5176912,
+                    "size_try": 0,
+                    "strMediaMid": "003fqAb20MUoy2",
+                    "try_begin": 0,
+                    "try_end": 0
+                },
+                "fnote": 4009,
+                "genre": 50,
+                "grp": [{
+                    "action": {
+                        "alert": 23,
+                        "icons": 16252,
+                        "msg": 14,
+                        "switch": 17413891
+                    },
+                    "album": {
+                        "id": 3961087,
+                        "mid": "001GSS2G0svZlJ",
+                        "name": "Rock Motivation",
+                        "subtitle": "",
+                        "title": "Rock Motivation",
+                        "title_hilight": "Rock Motivation"
+                    },
+                    "chinesesinger": 0,
+                    "desc": "",
+                    "desc_hilight": "",
+                    "docid": "2499164674251481535",
+                    "file": {
+                        "media_mid": "003pBzTb0JqP32",
+                        "size_128": 3271618,
+                        "size_320": 8178668,
+                        "size_aac": 4929038,
+                        "size_ape": 0,
+                        "size_dts": 0,
+                        "size_flac": 0,
+                        "size_ogg": 5084820,
+                        "size_try": 0,
+                        "strMediaMid": "003pBzTb0JqP32",
+                        "try_begin": 0,
+                        "try_end": 0
+                    },
+                    "fnote": 4009,
+                    "genre": 36,
+                    "id": 213372483,
+                    "index_album": 5,
+                    "index_cd": 0,
+                    "interval": 204,
+                    "isonly": 1,
+                    "ksong": {
+                        "id": 2687858,
+                        "mid": "002MoG0p0UizFw"
+                    },
+                    "language": 5,
+                    "lyric": "",
+                    "lyric_hilight": "",
+                    "mid": "003pBzTb0JqP32",
+                    "mv": {
+                        "id": 1098974,
+                        "vid": "h0023ntf6l4"
+                    },
+                    "name": "Believer",
+                    "newStatus": 1,
+                    "nt": 10013,
+                    "pay": {
+                        "pay_down": 1,
+                        "pay_month": 1,
+                        "pay_play": 0,
+                        "pay_status": 0,
+                        "price_album": 0,
+                        "price_track": 200,
+                        "time_free": 0
+                    },
+                    "pure": 0,
+                    "singer": [{
+                        "id": 27158,
+                        "mid": "003W0GsQ2bAxVU",
+                        "name": "Imagine Dragons",
+                        "title": "Imagine Dragons",
+                        "title_hilight": "Imagine Dragons",
+                        "type": 2,
+                        "uin": 0
+                    }],
+                    "status": 0,
+                    "subtitle": "",
+                    "t": 1,
+                    "tag": 10,
+                    "time_public": "2018-03-16",
+                    "title": "Believer",
+                    "title_hilight": "Believer",
+                    "type": 0,
+                    "url": "http://stream10.qqmusic.qq.com/213372483.wma",
+                    "ver": 0,
+                    "volume": {
+                        "gain": -8.552000045776367,
+                        "lra": 4.126999855041504,
+                        "peak": 0.8169999718666077
+                    }
+                }, {
+                    "action": {
+                        "alert": 23,
+                        "icons": 16252,
+                        "msg": 14,
+                        "switch": 17413891
+                    },
+                    "album": {
+                        "id": 3753433,
+                        "mid": "003oCr4X0ofM46",
+                        "name": "Best Of 2017",
+                        "subtitle": "",
+                        "title": "Best Of 2017",
+                        "title_hilight": "Best Of 2017"
+                    },
+                    "chinesesinger": 0,
+                    "desc": "",
+                    "desc_hilight": "",
+                    "docid": "15941990028010965068",
+                    "file": {
+                        "media_mid": "001cBdSO3kCXNG",
+                        "size_128": 3261581,
+                        "size_320": 8153584,
+                        "size_aac": 4925200,
+                        "size_ape": 0,
+                        "size_dts": 0,
+                        "size_flac": 0,
+                        "size_ogg": 5159383,
+                        "size_try": 0,
+                        "strMediaMid": "001cBdSO3kCXNG",
+                        "try_begin": 0,
+                        "try_end": 0
+                    },
+                    "fnote": 4009,
+                    "genre": 1,
+                    "id": 212104055,
+                    "index_album": 5,
+                    "index_cd": 0,
+                    "interval": 203,
+                    "isonly": 1,
+                    "ksong": {
+                        "id": 2687858,
+                        "mid": "002MoG0p0UizFw"
+                    },
+                    "language": 5,
+                    "lyric": "",
+                    "lyric_hilight": "",
+                    "mid": "001cBdSO3kCXNG",
+                    "mv": {
+                        "id": 1098974,
+                        "vid": "h0023ntf6l4"
+                    },
+                    "name": "Believer",
+                    "newStatus": 2,
+                    "nt": 10013,
+                    "pay": {
+                        "pay_down": 1,
+                        "pay_month": 1,
+                        "pay_play": 0,
+                        "pay_status": 0,
+                        "price_album": 0,
+                        "price_track": 200,
+                        "time_free": 0
+                    },
+                    "pure": 0,
+                    "singer": [{
+                        "id": 27158,
+                        "mid": "003W0GsQ2bAxVU",
+                        "name": "Imagine Dragons",
+                        "title": "Imagine Dragons",
+                        "title_hilight": "Imagine Dragons",
+                        "type": 2,
+                        "uin": 0
+                    }],
+                    "status": 0,
+                    "subtitle": "",
+                    "t": 1,
+                    "tag": 10,
+                    "time_public": "2017-12-08",
+                    "title": "Believer",
+                    "title_hilight": "Believer",
+                    "type": 0,
+                    "url": "http://stream10.qqmusic.qq.com/212104055.wma",
+                    "ver": 0,
+                    "volume": {
+                        "gain": -11.45899963378906,
+                        "lra": 4.0,
+                        "peak": 1.0
+                    }
+                }, {
+                    "action": {
+                        "alert": 100002,
+                        "icons": 8060,
+                        "msg": 14,
+                        "switch": 17413891
+                    },
+                    "album": {
+                        "id": 2225118,
+                        "mid": "002ABAgw1wLedl",
+                        "name": "Power Hits 2017",
+                        "subtitle": "",
+                        "title": "Power Hits 2017",
+                        "title_hilight": "Power Hits 2017"
+                    },
+                    "chinesesinger": 0,
+                    "desc": "",
+                    "desc_hilight": "",
+                    "docid": "13593392368016520695",
+                    "file": {
+                        "media_mid": "00312r8J2TEntH",
+                        "size_128": 3262005,
+                        "size_320": 8154635,
+                        "size_aac": 4925555,
+                        "size_ape": 0,
+                        "size_dts": 0,
+                        "size_flac": 0,
+                        "size_ogg": 5118681,
+                        "size_try": 0,
+                        "strMediaMid": "00312r8J2TEntH",
+                        "try_begin": 0,
+                        "try_end": 0
+                    },
+                    "fnote": 4009,
+                    "genre": 1,
+                    "id": 203762719,
+                    "index_album": 12,
+                    "index_cd": 0,
+                    "interval": 203,
+                    "isonly": 1,
+                    "ksong": {
+                        "id": 2687858,
+                        "mid": "002MoG0p0UizFw"
+                    },
+                    "language": 5,
+                    "lyric": "",
+                    "lyric_hilight": "",
+                    "mid": "00312r8J2TEntH",
+                    "mv": {
+                        "id": 1098974,
+                        "vid": "h0023ntf6l4"
+                    },
+                    "name": "Believer",
+                    "newStatus": 2,
+                    "nt": 10013,
+                    "pay": {
+                        "pay_down": 1,
+                        "pay_month": 1,
+                        "pay_play": 0,
+                        "pay_status": 0,
+                        "price_album": 0,
+                        "price_track": 200,
+                        "time_free": 0
+                    },
+                    "pure": 0,
+                    "singer": [{
+                        "id": 27158,
+                        "mid": "003W0GsQ2bAxVU",
+                        "name": "Imagine Dragons",
+                        "title": "Imagine Dragons",
+                        "title_hilight": "Imagine Dragons",
+                        "type": 2,
+                        "uin": 0
+                    }],
+                    "status": 0,
+                    "subtitle": "",
+                    "t": 1,
+                    "tag": 10,
+                    "time_public": "2017-09-01",
+                    "title": "Believer",
+                    "title_hilight": "Believer",
+                    "type": 0,
+                    "url": "http://stream10.qqmusic.qq.com/203762719.wma",
+                    "ver": 0,
+                    "volume": {
+                        "gain": -11.46300029754639,
+                        "lra": 4.012000083923340,
+                        "peak": 1.0
+                    }
+                }, {
+                    "action": {
+                        "alert": 100002,
+                        "icons": 8060,
+                        "msg": 14,
+                        "switch": 17413891
+                    },
+                    "album": {
+                        "id": 2101090,
+                        "mid": "001gYG9Q1jdaKW",
+                        "name": "Shape Of Pop",
+                        "subtitle": "",
+                        "title": "Shape Of Pop",
+                        "title_hilight": "Shape Of Pop"
+                    },
+                    "chinesesinger": 0,
+                    "desc": "",
+                    "desc_hilight": "",
+                    "docid": "8427769159971531870",
+                    "file": {
+                        "media_mid": "000DuVwQ0wrL9r",
+                        "size_128": 3261163,
+                        "size_320": 8152540,
+                        "size_aac": 4922112,
+                        "size_ape": 0,
+                        "size_dts": 0,
+                        "size_flac": 0,
+                        "size_ogg": 5131407,
+                        "size_try": 0,
+                        "strMediaMid": "000DuVwQ0wrL9r",
+                        "try_begin": 0,
+                        "try_end": 0
+                    },
+                    "fnote": 4009,
+                    "genre": 1,
+                    "id": 202673405,
+                    "index_album": 10,
+                    "index_cd": 0,
+                    "interval": 203,
+                    "isonly": 1,
+                    "ksong": {
+                        "id": 2687858,
+                        "mid": "002MoG0p0UizFw"
+                    },
+                    "language": 5,
+                    "lyric": "",
+                    "lyric_hilight": "",
+                    "mid": "000DuVwQ0wrL9r",
+                    "mv": {
+                        "id": 1098974,
+                        "vid": "h0023ntf6l4"
+                    },
+                    "name": "Believer",
+                    "newStatus": 2,
+                    "nt": 10013,
+                    "pay": {
+                        "pay_down": 1,
+                        "pay_month": 1,
+                        "pay_play": 0,
+                        "pay_status": 0,
+                        "price_album": 0,
+                        "price_track": 200,
+                        "time_free": 0
+                    },
+                    "pure": 0,
+                    "singer": [{
+                        "id": 27158,
+                        "mid": "003W0GsQ2bAxVU",
+                        "name": "Imagine Dragons",
+                        "title": "Imagine Dragons",
+                        "title_hilight": "Imagine Dragons",
+                        "type": 2,
+                        "uin": 0
+                    }],
+                    "status": 0,
+                    "subtitle": "",
+                    "t": 1,
+                    "tag": 10,
+                    "time_public": "2017-06-09",
+                    "title": "Believer",
+                    "title_hilight": "Believer",
+                    "type": 0,
+                    "url": "http://stream10.qqmusic.qq.com/202673405.wma",
+                    "ver": 0,
+                    "volume": {
+                        "gain": -11.45800018310547,
+                        "lra": 4.080999851226807,
+                        "peak": 1.0
+                    }
+                }],
+                "id": 202210558,
+                "index_album": 4,
+                "index_cd": 0,
+                "interval": 204,
+                "isonly": 1,
+                "ksong": {
+                    "id": 2687858,
+                    "mid": "002MoG0p0UizFw"
+                },
+                "language": 5,
+                "lyric": "任天堂Switch广告主题曲|《东方快车谋杀案》电影预告插曲",
+                "lyric_hilight": "任天堂Switch广告主题曲|《东方快车谋杀案》电影预告插曲",
+                "mid": "003uk0GY3wjLw8",
+                "mv": {
+                    "id": 1098974,
+                    "vid": "h0023ntf6l4"
+                },
+                "name": "Believer",
+                "newStatus": 2,
+                "nt": 10013,
+                "pay": {
+                    "pay_down": 1,
+                    "pay_month": 0,
+                    "pay_play": 1,
+                    "pay_status": 0,
+                    "price_album": 2000,
+                    "price_track": 200,
+                    "time_free": 0
+                },
+                "pure": 0,
+                "singer": [{
+                    "id": 27158,
+                    "mid": "003W0GsQ2bAxVU",
+                    "name": "Imagine Dragons",
+                    "title": "Imagine Dragons",
+                    "title_hilight": "Imagine Dragons",
+                    "type": 2,
+                    "uin": 0
+                }],
+                "status": 0,
+                "subtitle": "任天堂Switch广告主题曲|《东方快车谋杀案》电影预告插曲",
+                "t": 1,
+                "tag": 11,
+                "time_public": "2017-06-23",
+                "title": "Believer",
+                "title_hilight": "Believer",
+                "type": 0,
+                "url": "http://stream10.qqmusic.qq.com/202210558.wma",
+                "ver": 0,
+                "volume": {
+                    "gain": -11.45600032806396,
+                    "lra": 3.983999967575073,
+                    "peak": 0.9990000128746033
+                }
+            }, {
+                "action": {
+                    "alert": 100002,
+                    "icons": 8060,
+                    "msg": 14,
+                    "switch": 17413891
+                },
+                "album": {
+                    "id": 2195752,
+                    "mid": "002W2FLU2yTbFM",
+                    "name": "Live At AllSaints Studios",
+                    "subtitle": "",
+                    "title": "Live At AllSaints Studios",
+                    "title_hilight": "Live At AllSaints Studios"
+                },
+                "chinesesinger": 0,
+                "desc": "",
+                "desc_hilight": "",
+                "docid": "5305279411661539684",
+                "file": {
+                    "media_mid": "000Kegxc1iww0B",
+                    "size_128": 3777369,
+                    "size_320": 9443015,
+                    "size_aac": 5689563,
+                    "size_ape": 0,
+                    "size_dts": 0,
+                    "size_flac": 0,
+                    "size_ogg": 4747011,
+                    "size_try": 0,
+                    "strMediaMid": "000Kegxc1iww0B",
+                    "try_begin": 0,
+                    "try_end": 0
+                },
+                "fnote": 4009,
+                "genre": 50,
+                "grp": [],
+                "id": 203511198,
+                "index_album": 2,
+                "index_cd": 0,
+                "interval": 236,
+                "isonly": 1,
+                "ksong": {
+                    "id": 2935355,
+                    "mid": "004OvUMn3hRBpM"
+                },
+                "language": 5,
+                "lyric": "",
+                "lyric_hilight": "",
+                "mid": "001Ci5rs0Gjn4w",
+                "mv": {
+                    "id": 0,
+                    "vid": ""
+                },
+                "name": "Believer",
+                "newStatus": 2,
+                "nt": 10014,
+                "pay": {
+                    "pay_down": 1,
+                    "pay_month": 1,
+                    "pay_play": 0,
+                    "pay_status": 0,
+                    "price_album": 0,
+                    "price_track": 200,
+                    "time_free": 0
+                },
+                "pure": 0,
+                "singer": [{
+                    "id": 27158,
+                    "mid": "003W0GsQ2bAxVU",
+                    "name": "Imagine Dragons",
+                    "title": "Imagine Dragons",
+                    "title_hilight": "Imagine Dragons",
+                    "type": 2,
+                    "uin": 0
+                }],
+                "status": 0,
+                "subtitle": "",
+                "t": 1,
+                "tag": 10,
+                "time_public": "2017-08-04",
+                "title": "Believer (Live|Acoustic)",
+                "title_hilight": "Believer (Live|Acoustic)",
+                "type": 0,
+                "url": "http://stream10.qqmusic.qq.com/203511198.wma",
+                "ver": 0,
+                "volume": {
+                    "gain": -5.908999919891357,
+                    "lra": 6.190000057220459,
+                    "peak": 0.7409999966621399
+                }
+            }, {
+                "action": {
+                    "alert": 100002,
+                    "icons": 8060,
+                    "msg": 14,
+                    "switch": 17413891
+                },
+                "album": {
+                    "id": 1824603,
+                    "mid": "004Hmd8C0L77jh",
+                    "name": "Battle Cry: Tribute to Imagine Dragon",
+                    "subtitle": "",
+                    "title": "Battle Cry: Tribute to Imagine Dragon",
+                    "title_hilight": "Battle Cry: Tribute to <em>Imagine</em> <em>Dragon</em>"
+                },
+                "chinesesinger": 0,
+                "desc": "",
+                "desc_hilight": "",
+                "docid": "10467388369321887628",
+                "file": {
+                    "media_mid": "000504pm3oiMo5",
+                    "size_128": 4360052,
+                    "size_320": 10899650,
+                    "size_aac": 6789102,
+                    "size_ape": 31175118,
+                    "size_dts": 0,
+                    "size_flac": 31324798,
+                    "size_ogg": 6685965,
+                    "size_try": 0,
+                    "strMediaMid": "000504pm3oiMo5",
+                    "try_begin": 0,
+                    "try_end": 0
+                },
+                "fnote": 4009,
+                "genre": 1,
+                "grp": [{
+                    "action": {
+                        "alert": 100002,
+                        "icons": 8060,
+                        "msg": 14,
+                        "switch": 17409795
+                    },
+                    "album": {
+                        "id": 1824603,
+                        "mid": "004Hmd8C0L77jh",
+                        "name": "Battle Cry: Tribute to Imagine Dragon",
+                        "subtitle": "",
+                        "title": "Battle Cry: Tribute to Imagine Dragon",
+                        "title_hilight": "Battle Cry: Tribute to <em>Imagine</em> <em>Dragon</em>"
+                    },
+                    "chinesesinger": 0,
+                    "desc": "",
+                    "desc_hilight": "",
+                    "docid": "17481665595182992603",
+                    "file": {
+                        "media_mid": "0006W7pb1mo9w6",
+                        "size_128": 4352499,
+                        "size_320": 10880288,
+                        "size_aac": 6778768,
+                        "size_ape": 31131887,
+                        "size_dts": 0,
+                        "size_flac": 31257063,
+                        "size_ogg": 6701594,
+                        "size_try": 0,
+                        "strMediaMid": "0006W7pb1mo9w6",
+                        "try_begin": 0,
+                        "try_end": 0
+                    },
+                    "fnote": 4009,
+                    "genre": 1,
+                    "id": 200510456,
+                    "index_album": 1,
+                    "index_cd": 0,
+                    "interval": 271,
+                    "isonly": 1,
+                    "ksong": {
+                        "id": 0,
+                        "mid": ""
+                    },
+                    "language": 5,
+                    "lyric": "",
+                    "lyric_hilight": "",
+                    "mid": "0006W7pb1mo9w6",
+                    "mv": {
+                        "id": 0,
+                        "vid": ""
+                    },
+                    "name": "Battle Cry",
+                    "newStatus": 2,
+                    "nt": 10015,
+                    "pay": {
+                        "pay_down": 1,
+                        "pay_month": 1,
+                        "pay_play": 0,
+                        "pay_status": 0,
+                        "price_album": 0,
+                        "price_track": 200,
+                        "time_free": 0
+                    },
+                    "pure": 0,
+                    "singer": [{
+                        "id": 1345238,
+                        "mid": "001j6MeV1W1w6v",
+                        "name": "The Siders",
+                        "title": "The Siders",
+                        "title_hilight": "The Siders",
+                        "type": 0,
+                        "uin": 0
+                    }],
+                    "status": 0,
+                    "subtitle": "",
+                    "t": 1,
+                    "tag": 10,
+                    "time_public": "2014-07-21",
+                    "title": "Battle Cry",
+                    "title_hilight": "Battle Cry",
+                    "type": 0,
+                    "url": "http://stream10.qqmusic.qq.com/200510456.wma",
+                    "ver": 0,
+                    "volume": {
+                        "gain": -9.420000076293945,
+                        "lra": 13.42300033569336,
+                        "peak": 1.0
+                    }
+                }, {
+                    "action": {
+                        "alert": 100002,
+                        "icons": 8060,
+                        "msg": 14,
+                        "switch": 17409795
+                    },
+                    "album": {
+                        "id": 1824603,
+                        "mid": "004Hmd8C0L77jh",
+                        "name": "Battle Cry: Tribute to Imagine Dragon",
+                        "subtitle": "",
+                        "title": "Battle Cry: Tribute to Imagine Dragon",
+                        "title_hilight": "Battle Cry: Tribute to <em>Imagine</em> <em>Dragon</em>"
+                    },
+                    "chinesesinger": 0,
+                    "desc": "",
+                    "desc_hilight": "",
+                    "docid": "8803215343702619592",
+                    "file": {
+                        "media_mid": "000ieQAp1uXuEU",
+                        "size_128": 4361306,
+                        "size_320": 10902754,
+                        "size_aac": 6790864,
+                        "size_ape": 31085434,
+                        "size_dts": 0,
+                        "size_flac": 31220604,
+                        "size_ogg": 6709004,
+                        "size_try": 0,
+                        "strMediaMid": "000ieQAp1uXuEU",
+                        "try_begin": 0,
+                        "try_end": 0
+                    },
+                    "fnote": 4009,
+                    "genre": 1,
+                    "id": 200510457,
+                    "index_album": 2,
+                    "index_cd": 0,
+                    "interval": 272,
+                    "isonly": 1,
+                    "ksong": {
+                        "id": 0,
+                        "mid": ""
+                    },
+                    "language": 5,
+                    "lyric": "",
+                    "lyric_hilight": "",
+                    "mid": "000ieQAp1uXuEU",
+                    "mv": {
+                        "id": 0,
+                        "vid": ""
+                    },
+                    "name": "Battle Cry(Boost Version)",
+                    "newStatus": 2,
+                    "nt": 10015,
+                    "pay": {
+                        "pay_down": 1,
+                        "pay_month": 1,
+                        "pay_play": 0,
+                        "pay_status": 0,
+                        "price_album": 0,
+                        "price_track": 200,
+                        "time_free": 0
+                    },
+                    "pure": 0,
+                    "singer": [{
+                        "id": 1345238,
+                        "mid": "001j6MeV1W1w6v",
+                        "name": "The Siders",
+                        "title": "The Siders",
+                        "title_hilight": "The Siders",
+                        "type": 0,
+                        "uin": 0
+                    }],
+                    "status": 0,
+                    "subtitle": "",
+                    "t": 1,
+                    "tag": 10,
+                    "time_public": "2014-07-21",
+                    "title": "Battle Cry(Boost Version)",
+                    "title_hilight": "Battle Cry(Boost Version)",
+                    "type": 0,
+                    "url": "http://stream10.qqmusic.qq.com/200510457.wma",
+                    "ver": 0,
+                    "volume": {
+                        "gain": -9.921999931335449,
+                        "lra": 13.61499977111816,
+                        "peak": 1.0
+                    }
+                }],
+                "id": 200510458,
+                "index_album": 3,
+                "index_cd": 0,
+                "interval": 272,
+                "isonly": 1,
+                "ksong": {
+                    "id": 2855785,
+                    "mid": "002wz8tR3nhA4X"
+                },
+                "language": 5,
+                "lyric": "",
+                "lyric_hilight": "",
+                "mid": "000504pm3oiMo5",
+                "mv": {
+                    "id": 0,
+                    "vid": ""
+                },
+                "name": "Battle Cry(Synth Version)",
+                "newStatus": 2,
+                "nt": 10015,
+                "pay": {
+                    "pay_down": 1,
+                    "pay_month": 1,
+                    "pay_play": 0,
+                    "pay_status": 0,
+                    "price_album": 0,
+                    "price_track": 200,
+                    "time_free": 0
+                },
+                "pure": 0,
+                "singer": [{
+                    "id": 1345238,
+                    "mid": "001j6MeV1W1w6v",
+                    "name": "The Siders",
+                    "title": "The Siders",
+                    "title_hilight": "The Siders",
+                    "type": 0,
+                    "uin": 0
+                }],
+                "status": 0,
+                "subtitle": "",
+                "t": 1,
+                "tag": 10,
+                "time_public": "2014-07-21",
+                "title": "Battle Cry(Synth Version)",
+                "title_hilight": "Battle Cry(Synth Version)",
+                "type": 0,
+                "url": "http://stream10.qqmusic.qq.com/200510458.wma",
+                "ver": 0,
+                "volume": {
+                    "gain": -9.451999664306641,
+                    "lra": 9.758999824523926,
+                    "peak": 1.0
+                }
+            }, {
+                "action": {
+                    "alert": 100002,
+                    "icons": 8060,
+                    "msg": 14,
+                    "switch": 17409795
+                },
+                "album": {
+                    "id": 1824603,
+                    "mid": "004Hmd8C0L77jh",
+                    "name": "Battle Cry: Tribute to Imagine Dragon",
+                    "subtitle": "",
+                    "title": "Battle Cry: Tribute to Imagine Dragon",
+                    "title_hilight": "Battle Cry: Tribute to <em>Imagine</em> <em>Dragon</em>"
+                },
+                "chinesesinger": 0,
+                "desc": "",
+                "desc_hilight": "",
+                "docid": "2569025026096311700",
+                "file": {
+                    "media_mid": "0022L5HG2h5uuR",
+                    "size_128": 4375514,
+                    "size_320": 10937963,
+                    "size_aac": 6788707,
+                    "size_ape": 29537945,
+                    "size_dts": 0,
+                    "size_flac": 29666949,
+                    "size_ogg": 6913386,
+                    "size_try": 0,
+                    "strMediaMid": "0022L5HG2h5uuR",
+                    "try_begin": 0,
+                    "try_end": 0
+                },
+                "fnote": 4009,
+                "genre": 1,
+                "grp": [],
+                "id": 200510459,
+                "index_album": 4,
+                "index_cd": 0,
+                "interval": 273,
+                "isonly": 1,
+                "ksong": {
+                    "id": 0,
+                    "mid": ""
+                },
+                "language": 5,
+                "lyric": "",
+                "lyric_hilight": "",
+                "mid": "0022L5HG2h5uuR",
+                "mv": {
+                    "id": 0,
+                    "vid": ""
+                },
+                "name": "Battle Cry(Instrumental)",
+                "newStatus": 2,
+                "nt": 10016,
+                "pay": {
+                    "pay_down": 1,
+                    "pay_month": 1,
+                    "pay_play": 0,
+                    "pay_status": 0,
+                    "price_album": 0,
+                    "price_track": 200,
+                    "time_free": 0
+                },
+                "pure": 0,
+                "singer": [{
+                    "id": 1345238,
+                    "mid": "001j6MeV1W1w6v",
+                    "name": "The Siders",
+                    "title": "The Siders",
+                    "title_hilight": "The Siders",
+                    "type": 0,
+                    "uin": 0
+                }],
+                "status": 0,
+                "subtitle": "",
+                "t": 1,
+                "tag": 10,
+                "time_public": "2014-07-21",
+                "title": "Battle Cry(Instrumental) (纯音乐)",
+                "title_hilight": "Battle Cry(Instrumental) (纯音乐)",
+                "type": 0,
+                "url": "http://stream10.qqmusic.qq.com/200510459.wma",
+                "ver": 0,
+                "volume": {
+                    "gain": -7.800000190734863,
+                    "lra": 13.68400001525879,
+                    "peak": 1.0
+                }
+            }, {
+                "action": {
+                    "alert": 100002,
+                    "icons": 8060,
+                    "msg": 14,
+                    "switch": 17409795
+                },
+                "album": {
+                    "id": 1225109,
+                    "mid": "000LnP0v1LxlPE",
+                    "name": "The Dubstep Dragon",
+                    "subtitle": "",
+                    "title": "The Dubstep Dragon",
+                    "title_hilight": "The Dubstep <em>Dragon</em>"
+                },
+                "chinesesinger": 0,
+                "desc": "",
+                "desc_hilight": "",
+                "docid": "12346909524421405793",
+                "file": {
+                    "media_mid": "000uDoIQ31JPXQ",
+                    "size_128": 2908860,
+                    "size_320": 7271630,
+                    "size_aac": 4795266,
+                    "size_ape": 24046021,
+                    "size_dts": 0,
+                    "size_flac": 23931385,
+                    "size_ogg": 5949560,
+                    "size_try": 0,
+                    "strMediaMid": "000uDoIQ31JPXQ",
+                    "try_begin": 0,
+                    "try_end": 0
+                },
+                "fnote": 4009,
+                "genre": 20,
+                "grp": [],
+                "id": 105126617,
+                "index_album": 3,
+                "index_cd": 0,
+                "interval": 181,
+                "isonly": 1,
+                "ksong": {
+                    "id": 0,
+                    "mid": ""
+                },
+                "language": 5,
+                "lyric": "",
+                "lyric_hilight": "",
+                "mid": "000uDoIQ31JPXQ",
+                "mv": {
+                    "id": 0,
+                    "vid": ""
+                },
+                "name": "Imagine (Dubstep Remix)",
+                "newStatus": 2,
+                "nt": 10017,
+                "pay": {
+                    "pay_down": 1,
+                    "pay_month": 1,
+                    "pay_play": 0,
+                    "pay_status": 0,
+                    "price_album": 0,
+                    "price_track": 200,
+                    "time_free": 0
+                },
+                "pure": 0,
+                "singer": [{
+                    "id": 1070203,
+                    "mid": "000LV3MH03k5bw",
+                    "name": "Dubstep Hitz",
+                    "title": "Dubstep Hitz",
+                    "title_hilight": "Dubstep Hitz",
+                    "type": 0,
+                    "uin": 0
+                }],
+                "status": 0,
+                "subtitle": "",
+                "t": 1,
+                "tag": 10,
+                "time_public": "2015-12-04",
+                "title": "Imagine (Dubstep Remix)",
+                "title_hilight": "<em>Imagine</em> (Dubstep Remix)",
+                "type": 0,
+                "url": "http://stream10.qqmusic.qq.com/105126617.wma",
+                "ver": 0,
+                "volume": {
+                    "gain": -9.680999755859375,
+                    "lra": 2.776999950408936,
+                    "peak": 1.0
+                }
+            }],
+            "totalnum": 30
+        },
+        "taglist": [],
+        "totaltime": 0,
+        "zhida": {
+            "chinesesinger": 0,
+            "type": 1,
+            "zhida_singer": {
+                "albumNum": 51,
+                "hotalbum": [{
+                    "albumID": 97672,
+                    "albumMID": "001H5FTk2JKCCT",
+                    "albumName": "Continued Silence",
+                    "albumname_hilight": "Continued Silence"
+                }, {
+                    "albumID": 961974,
+                    "albumMID": "003ukkTv2T7jGU",
+                    "albumName": "Smoke + Mirrors (Deluxe)",
+                    "albumname_hilight": "Smoke + Mirrors (Deluxe)"
+                }, {
+                    "albumID": 530763,
+                    "albumMID": "002TejT342lym0",
+                    "albumName": "Battle Cry",
+                    "albumname_hilight": "Battle Cry"
+                }, {
+                    "albumID": 144638,
+                    "albumMID": "0010BlU31fxTXS",
+                    "albumName": "Night Visions (Deluxe Version)",
+                    "albumname_hilight": "Night Visions (Deluxe Version)"
+                }, {
+                    "albumID": 951409,
+                    "albumMID": "003M1JDJ3CIA50",
+                    "albumName": "I Bet My Life (Remixes)",
+                    "albumname_hilight": "I Bet My Life (Remixes)"
+                }, {
+                    "albumID": 674683,
+                    "albumMID": "003pRqVo04DDBC",
+                    "albumName": "Warriors",
+                    "albumname_hilight": "Warriors"
+                }, {
+                    "albumID": 464957,
+                    "albumMID": "000SSfA72xVc4X",
+                    "albumName": "Radioactive",
+                    "albumname_hilight": "Radioactive"
+                }, {
+                    "albumID": 70285,
+                    "albumMID": "00325QrM3BQOwG",
+                    "albumName": "It’s Time",
+                    "albumname_hilight": "It’s Time"
+                }, {
+                    "albumID": 986595,
+                    "albumMID": "003NRVBZ3GUsMp",
+                    "albumName": "Shots",
+                    "albumname_hilight": "Shots"
+                }, {
+                    "albumID": 2049615,
+                    "albumMID": "0019j13c2H7dWD",
+                    "albumName": "Evolve",
+                    "albumname_hilight": "Evolve"
+                }],
+                "hotsong": [{
+                    "f": "212582070|Thunder / Young Dumb &amp; Broke (Medley)|27158|Imagine Dragons|3823930|Thunder / Young Dumb &amp; Broke (Medley)|2167130|251|0|1|0|10054362|4021957|0|0|0|0|6065580|6066760|0|001R8qky1BRw8e|003W0GsQ2bAxVU|001cIXmF2JVjaO|0|4009",
+                    "songID": 212582070,
+                    "songMID": "001R8qky1BRw8e",
+                    "songName": "Thunder / Young Dumb & Broke (Medley)",
+                    "songname_hilight": "Thunder / Young Dumb & Broke (Medley)"
+                }, {
+                    "f": "1149425|Demons|27158|Imagine Dragons|97672|Continued Silence|1434879|175|2|1|0|7030179|2813598|0|0|19931303|20054710|3607913|4008421|0|000XIqSK0YYIiL|003W0GsQ2bAxVU|001H5FTk2JKCCT|0|8013",
+                    "songID": 1149425,
+                    "songMID": "000XIqSK0YYIiL",
+                    "songName": "Demons",
+                    "songname_hilight": "Demons"
+                }, {
+                    "f": "203511196|Thunder|27158|Imagine Dragons|2195752|Live At AllSaints Studios|1847046|214|2|1|0|8563208|3425445|0|0|0|0|4488142|5179940|0|004YEhrG3qgERF|003W0GsQ2bAxVU|002W2FLU2yTbFM|0|4009",
+                    "songID": 203511196,
+                    "songMID": "004YEhrG3qgERF",
+                    "songName": "Thunder",
+                    "songname_hilight": "Thunder"
+                }, {
+                    "f": "1149424|Radioactive|27158|Imagine Dragons|97672|Continued Silence|1528003|188|2|1|0|7524416|3011293|0|0|23042676|23178300|4479609|4642715|0|004W48Vn3R3mly|003W0GsQ2bAxVU|001H5FTk2JKCCT|0|4009",
+                    "songID": 1149424,
+                    "songMID": "004W48Vn3R3mly",
+                    "songName": "Radioactive",
+                    "songname_hilight": "Radioactive"
+                }, {
+                    "f": "202210552|Thunder|27158|Imagine Dragons|2049615|Evolve|1613408|187|5|1|0|7489015|2995745|0|0|22509368|22640526|4688721|4516534|0|0020ndPY24CcOP|003W0GsQ2bAxVU|0019j13c2H7dWD|0|4009",
+                    "songID": 202210552,
+                    "songMID": "0020ndPY24CcOP",
+                    "songName": "Thunder",
+                    "songname_hilight": "Thunder"
+                }, {
+                    "f": "102387639|Shots|27158|Imagine Dragons|986595|Shots|1651840|191|5|1|0|7665635|3066412|0|0|0|0|4623332|4747156|0|001Ue5983QvMUm|003W0GsQ2bAxVU|003NRVBZ3GUsMp|0|4009",
+                    "songID": 102387639,
+                    "songMID": "001Ue5983QvMUm",
+                    "songName": "Shots",
+                    "songname_hilight": "Shots"
+                }, {
+                    "f": "107437320|Sucker For Pain|12743|Lil Wayne|1479347|Suicide Squad: The Album|2096648|243|7|1|0|9731406|3892725|0|0|25937644|26131843|5668173|5892898|0|004dykg82QtaAb|004GSabG0jxTyO|0033xkGb0pw5gE|0|4009",
+                    "songID": 107437320,
+                    "songMID": "004dykg82QtaAb",
+                    "songName": "Sucker For Pain",
+                    "songname_hilight": "Sucker For Pain"
+                }, {
+                    "f": "203514080|Warriors|27158|Imagine Dragons|674683|Warriors|1466214|170|0|1|0|6805658|2722406|0|0|0|0|3974532|4096105|0|003SdGZm3fqsUa|003W0GsQ2bAxVU|003pRqVo04DDBC|0|4009",
+                    "songID": 203514080,
+                    "songMID": "003SdGZm3fqsUa",
+                    "songName": "Warriors",
+                    "songname_hilight": "Warriors"
+                }, {
+                    "f": "202210558|Believer|27158|Imagine Dragons|2049615|Evolve|1763810|204|5|1|0|8176560|3270764|0|0|25323833|25481194|5176912|4925656|0|003uk0GY3wjLw8|003W0GsQ2bAxVU|0019j13c2H7dWD|0|4009",
+                    "songID": 202210558,
+                    "songMID": "003uk0GY3wjLw8",
+                    "songName": "Believer",
+                    "songname_hilight": "Believer"
+                }, {
+                    "f": "829543|It&#39;s Time|27158|Imagine Dragons|70285|It’s Time|1948565|240|5|1|0|9615393|3843449|0|0|30276220|30348402|5951235|5937149|0|0046HRBd0FvKLm|003W0GsQ2bAxVU|00325QrM3BQOwG|0|4009",
+                    "songID": 829543,
+                    "songMID": "0046HRBd0FvKLm",
+                    "songName": "It's Time",
+                    "songname_hilight": "It's Time"
+                }],
+                "mvNum": 183,
+                "singerID": 27158,
+                "singerMID": "003W0GsQ2bAxVU",
+                "singerName": "Imagine Dragons (梦龙)",
+                "singerPic": "http://i.gtimg.cn/music/photo/mid_singer_180/V/U/003W0GsQ2bAxVU.jpg",
+                "singername_hilight": "Imagine Dragons (梦龙)",
+                "songNum": 165
+            }
+        }
+    },
+    "message": "",
+    "notice": "",
+    "subcode": 0,
+    "time": 1523800287,
+    "tips": ""
+})

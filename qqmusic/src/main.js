@@ -12,6 +12,7 @@ import hotsong from './components/hotsong/hotsong.vue'
 import home from './components/home/home.vue'
 import mv from './components/mv.vue'
 import album from './components/album.vue'
+import bestlove from './components/bestlove.vue'
 
 Vue.use(VueRouter)
 Vue.use(headComponent)
@@ -22,7 +23,8 @@ const routes = [
   { path: '/hotsong', component: hotsong},
   { path: '/', component: home },
   { path: '/mv', component:mv },
-  { path: '/album', component:album }
+  { path: '/album', component:album },
+  { path:'/bestlove', component:bestlove }
 ]
 
 const router = new VueRouter({
